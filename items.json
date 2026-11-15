@@ -68,7 +68,7 @@
     ,
     {
       "id": "tokyo-tower-2",
-      "title": "Lazing around at Tokyo Tower 2",
+      "title": "Lazing around at Tokyo Tower #2",
       "prefecture": "tokyo",
       "region": "kanto",
       "item": "structure",
@@ -300,6 +300,23 @@
   "The background art depicts a bright coastal scene with blue skies, fluffy white clouds and illustrations of swimming fish. The packaging also displays the inscription **“Fukushima Exclusive”** (福島限定), making this piece a charming tribute to the region’s fishing culture and local culinary heritage."
       ],
       "image": "images/mehiikari.png",
+      "image_source": "",
+      "image_credit": ""
+    }
+     ,
+    {
+      "id": "takoyaki-3",
+      "title": "Lazing around with takoyaki #3",
+      "prefecture": "osaka",
+      "region": "kansai",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Takoyaki** (たこ焼き), a beloved street food specialty from **Ōsaka** prefecture. These savory, ball-shaped octopus dumplings originated in the city and have become a symbol of its vibrant food culture. Known for its **Kuidaore** philosophy, often translated as “eat until you drop”, Ōsaka is home to countless street food stalls where preparing and skillfully flipping these golden batter balls is a cherished local tradition.",
+  "The design features **Rilakkuma** sitting next to a large, perfectly glazed **Takoyaki** topped with a tiny red octopus. **Kiiroitori** accompanies him, playfully peeking out from behind a second takoyaki.",
+  "The background art illustrates several delicious **Takoyaki** dumplings garnished with green seaweed and savory sauce, set against a warm, striped backdrop that captures the cozy and inviting atmosphere of a traditional **Ōsaka** food stall."
+      ],
+      "image": "images/takoyaki-3.png",
       "image_source": "",
       "image_credit": ""
     }
