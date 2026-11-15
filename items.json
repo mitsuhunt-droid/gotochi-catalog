@@ -218,5 +218,22 @@
       "image_source": "",
       "image_credit": ""
     }
+      ,
+    {
+      "id": "seal-1",
+      "title": "Lazing around with firefly squid",
+      "prefecture": "toyama",
+      "region": "chubu",
+      "item": "animal",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates the **Hotaru-ika** (ホタルイカ), or firefly squid, a fascinating marine creature closely associated with **Toyama** prefecture. During spring, thousands of these tiny squid migrate to **Toyama Bay**, emitting a brilliant deep-blue bioluminescent light that illuminates the shoreline at night.",
+  "The design features **Rilakkuma** hugging a large white-and-blue **Hotaru-ika** marked with the inscription “**Toyama**” (富山), while **Kiiroitori** perches on a smaller squid alongside him.",
+  "The background art captures the magical **blue wave phenomenon** of the bay at night, illustrating the sparkling lights that make this natural spectacle one of the most famous sights in the **Hokuriku** region."
+      ],
+      "image": "images/firefly-squid.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
