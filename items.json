@@ -252,5 +252,22 @@
       "image_source": "",
       "image_credit": ""
     }
+      ,
+    {
+      "id": "karashi-renkon-1",
+      "title": "Lazing around with karashi renkon",
+      "prefecture": "kumamoto",
+      "region": "kyushu",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Karashi Renkon** (からし蓮根), a traditional regional delicacy from **Kumamoto** prefecture. This distinctive dish consists of lotus root filled with a spicy mustard and miso mixture, coated in batter and deep-fried until golden. Known for its characteristic circular pattern and bold flavor, it is one of Kumamoto’s most recognizable local specialties.",
+  "The design features **Rilakkuma** holding a freshly cut slice of **Karashi Renkon**, showcasing its distinctive lotus root holes filled with bright yellow mustard paste. **Kiiroitori** joins him alongside another miniature slice of this traditional delicacy.",
+  "The background art features illustrations of freshly sliced **lotus root** and a warm golden-yellow color palette, reflecting the appearance of this regional specialty. The packaging also displays the inscription **“Kumamoto Exclusive”** (熊本限定), making this piece a charming tribute to the culinary traditions of **Kumamoto**."
+      ],
+      "image": "images/karashi-renkon.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
