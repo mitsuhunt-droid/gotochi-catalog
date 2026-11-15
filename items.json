@@ -150,5 +150,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "kobe-ijinkan-1",
+      "title": "Lazing around at Kobe Ijinkan",
+      "prefecture": "hyogo",
+      "region": "kansai",
+      "item": "structure",
+      "type": ["blister pack"],
+      "description": [
+  "This piece celebrates **Kobe Ijinkan** (神戸異人館) in **Hyōgo** prefecture. Located on the picturesque slopes of **Kitano-chō** (北野町), this historical district is famous for its Western-style foreign residences built during the Meiji and Taishō eras.",
+  "The design features **Rilakkuma** dressed in a sophisticated vintage top hat and bowtie, holding a golden walking cane and posing alongside a miniature replica of the iconic **Weathercock House** (風見鶏の館) marked with “**Kōbe**”. **Kiiroitori** joins in the classic aesthetic with his own tiny top hat.",
+  "The background art captures the serene scenery of the **red-brick mansion** and its famous rooster weather vane standing against a bright blue sky. It is a delightful tribute to the rich **architectural heritage** and romantic coastal charm of **Kōbe**."
+      ],
+      "image": "images/amaou-strawberry.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
