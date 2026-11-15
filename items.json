@@ -578,7 +578,7 @@
       "region": "tohoku",
       "item": "food",
       "type": [
-        "blister pack",
+        "blister pack"
       ],
       "description": [
         "This piece celebrates **Kiritanpo** (きりたんぽ), **Akita** prefecture’s signature rice dish, made by mashing freshly cooked rice, shaping it around cedar skewers and toasting it over an open hearth. It is a beloved regional specialty, particularly enjoyed during the colder months.",
@@ -586,6 +586,24 @@
         "The background illustration depicts the traditional preparation of **Kiritanpo**, with rice cylinders roasting upright around an open fire. This scene evokes the warmth of **Northern Japan’s** winter food culture and celebrates **Akita**’s culinary heritage."
       ],
       "image": "images/kiritanpo.png",
+      "image_source": "",
+      "image_credit": ""
+    },
+    {
+      "id": "melon-1",
+      "title": "Lazing around with melon",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "food",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Melon**, one of **Hokkaidō** prefecture’s most famous agricultural specialties. The region is particularly renowned for its premium **Yūbari Melon**, a sweet, fragrant cantaloupe recognised by its distinctive netted rind and orange flesh. Grown in Hokkaidō’s fertile fields, these melons are prized throughout Japan.",
+        "The design features **Rilakkuma** hugging a large green **melon** with a beautifully textured, netted rind. **Kiiroitori** accompanies him, carrying a small slice of melon that shows its juicy orange flesh.",
+        "The background art depicts a peaceful agricultural landscape, with green melon fields stretching towards rolling hills beneath a bright blue sky. The scenery celebrates **Hokkaidō**’s farming heritage and its reputation for producing some of Japan’s finest melons."
+      ],
+      "image": "images/melon-1.png",
       "image_source": "",
       "image_credit": ""
     }
