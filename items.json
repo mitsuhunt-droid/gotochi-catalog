@@ -432,7 +432,7 @@
       "type": ["blister pack"],
       "description": [
 "This piece celebrates **Date Masamune** (伊達政宗), the powerful feudal lord who founded the city of **Sendai** and became one of the most iconic historical figures of **Miyagi** prefecture. Known as the One-Eyed Dragon of Ōshū, he is especially remembered for his distinctive helmet adorned with a golden crescent-shaped crest.",
-  "The design features **Rilakkuma** wearing a dark purple samurai helmet topped with a golden crescent-shaped ornament inspired by **Date Masamune**’s iconic headwear. He holds a small decorative item with a butterfly-like shape. **Kiiroitori** accompanies him without any clothing or accessories, while a vertical banner bearing the name **Aoba Castle** (青葉城) appears beside the figures.",
+  "The design features **Rilakkuma** wearing a dark purple samurai helmet topped with a golden crescent-shaped ornament inspired by **Date Masamune**’s iconic headwear. **Kiiroitori** accompanies him without any clothing or accessories, while a vertical banner bearing the name **Aoba Castle** (青葉城) appears beside the figures.",
   "The background art depicts **Aoba Castle** (青葉城), also known as Sendai Castle, with its historic architecture set against a bright blue sky. The scenery and castle signage reinforce the connection to **Sendai** and its samurai heritage."
       ],
       "image": "images/date-masamune.png",
@@ -470,6 +470,23 @@
   "The background art depicts several colourful **Koinobori** flying against a bright blue sky, with green hills beneath them. Their different colours and sizes recreate the cheerful sight of carp streamers waving in the spring breeze, capturing the festive spirit of **Children’s Day** in Japan."
       ],
       "image": "images/koinobori.png",
+      "image_source": "",
+      "image_credit": ""
+    }
+     ,
+    {
+      "id": "izumo-1",
+      "title": "Lazing around in Izumo",
+      "prefecture": "shimane",
+      "region": "chugoku",
+      "item": "item",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Izumo** (出雲), a region in **Shimane** prefecture famous for its deep connections to Japanese mythology and its traditions surrounding **Enmusubi** (縁結び), the divine bonds that connect people. The area is especially associated with **Izumo Taisha**, one of Japan’s most important Shinto shrines, renowned for prayers for love, relationships and good fortune.",
+  "The design features **Rilakkuma** wearing a traditional dark cap and sitting on a decorative straw bundle. He holds a small red cup marked with the character **Fuku** (福), meaning good fortune. **Kiiroitori** accompanies him, holding a yellow sign bearing the characters **Enmusubi** (縁結び), referring to the blessings of forming meaningful connections.",
+  "The background art depicts a traditional Japanese setting with green trees and shrine-like scenery. It includes a pink banner reading **Ren'ai Jōju Kigan** (恋愛成就祈願), a prayer for the fulfilment of romantic love, and an orange banner referring to good fortune. These details reflect Izumo’s longstanding association with matchmaking, relationships and spiritual blessings."
+      ],
+      "image": "images/izumo.png",
       "image_source": "",
       "image_credit": ""
     }
