@@ -133,5 +133,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "amaou-strawberry-1",
+      "title": "Lazing around with amaou ichigo",
+      "prefecture": "fukuoka",
+      "region": "kyushu",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+   "This piece celebrates **Amaou Ichigo** (あまおういちご) from **Fukuoka** prefecture. As one of Japan’s most premium strawberry varieties, the Amaou is famous for being incredibly large, round and sweet, earning it the title of the “king of strawberries.” It is grown in the lush, sunny fields of **Kyūshū**.",
+  "The design features **Rilakkuma** lounging in his signature relaxed pose atop a harvest crate overflowing with ruby-red strawberries. The white crate is marked with the clear inscription “**Amaou Ichigo**” (あまおういちご), signifying the official name of this premium fruit variety.",
+  "The background art captures a serene view of a professional **strawberry greenhouse**, where rows of ripe fruit hang beneath a bright, clear sky. It is a charming tribute to the agricultural excellence and sweet seasonal harvest of the **Fukuoka** countryside."
+      ],
+      "image": "images/amaou-strawberry.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
