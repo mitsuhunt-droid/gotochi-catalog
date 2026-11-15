@@ -286,5 +286,22 @@
       "image_source": "",
       "image_credit": ""
     }
+    ,
+    {
+      "id": "mehiikari-1",
+      "title": "Lazing around with mehiikari",
+      "prefecture": "fukushima",
+      "region": "tohoku",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Mehikari** (メヒカリ), a small deep-sea fish known for its distinctive large, luminous eyes and considered a local delicacy in **Fukushima** prefecture. Particularly associated with the coastal city of Iwaki, this fish is appreciated for its delicate flavor and is commonly enjoyed fried or grilled.",
+  "The design features **Rilakkuma** holding a blue-and-silver **Mehikari** fish, while **Kiiroitori** appears alongside him with a smaller matching fish. Both characters are surrounded by details inspired by this distinctive local seafood specialty.",
+  "The background art depicts a bright coastal scene with blue skies, fluffy white clouds and illustrations of swimming fish. The packaging also displays the inscription **“Fukushima Exclusive”** (福島限定), making this piece a charming tribute to the region’s fishing culture and local culinary heritage."
+      ],
+      "image": "images/mehiikari.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
