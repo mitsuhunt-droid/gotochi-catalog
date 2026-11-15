@@ -206,92 +206,95 @@ document.addEventListener("DOMContentLoaded", () => {
     return button;
   }
 
-  // CREATE ITEM DETAIL
+  // CREATE ITEM DETAIL (Pawpedia-style modal)
+
+  function infoCard(label, bodyNodes, status) {
+    const card = makeElement("div", "info-card");
+    if (label) card.appendChild(makeElement("p", "info-label", label));
+    if (status) card.appendChild(makeElement("p", "info-status", status));
+    bodyNodes.forEach(n => card.appendChild(n));
+    return card;
+  }
 
   function openItem(item) {
     dialogContent.replaceChildren();
-
-    const image = document.createElement("img");
-    image.className = "dialog-image";
-    image.alt = item.title || "Rilakkuma Gotochi charm";
-
-    if (item.image) {
-      image.src = item.image;
-      dialogContent.appendChild(image);
-    }
-
-    const title = makeElement("h2", "dialog-title", item.title);
-
-    const location = makeElement(
-      "p",
-      "dialog-location",
-      `${prefectureNames[item.prefecture] || capitalize(item.prefecture)}, Japan`
-    );
-
-    dialogContent.append(title, location);
-
-    // DESCRIPTION
-
-    const description = makeElement("div", "dialog-description");
-
-    if (Array.isArray(item.description)) {
-      item.description.forEach(paragraph => {
-        description.appendChild(
-          makeElement("p", "", paragraph)
-        );
-      });
-    } else if (item.description) {
-      description.appendChild(
-        makeElement("p", "", item.description)
-      );
-    }
-
-    dialogContent.appendChild(description);
-
-    // CLASSIFICATION
-
-    const classification = makeElement("div", "dialog-classification");
-
     const region = getRegion(item.prefecture);
+    const prefName = prefectureNames[item.prefecture] || capitalize(item.prefecture);
 
-    const tags = [
-      prefectureNames[item.prefecture] || capitalize(item.prefecture),
-      regionNames[region] || "",
-      capitalize(item.item),
-      ...(Array.isArray(item.type) ? item.type.map(capitalize) : [])
-    ].filter(Boolean);
+    // framed image
+    const frame = makeElement("div", "dialog-frame");
+    if (item.image) {
+      const image = document.createElement("img");
+      image.className = "dialog-image";
+      image.src = item.image;
+      image.alt = item.title || "Rilakkuma Gotochi charm";
+      image.addEventListener("error", () => { image.replaceWith(placeholder("Image unavailable")); });
+      frame.appendChild(image);
+    } else {
+      frame.appendChild(placeholder("Image coming soon"));
+    }
+    dialogContent.appendChild(frame);
 
-    tags.forEach(tag => {
-      classification.appendChild(
-        makeElement("span", "dialog-tag", tag)
-      );
+    dialogContent.appendChild(makeElement("h2", "dialog-title", item.title));
+    dialogContent.appendChild(makeElement("p", "dialog-location", `📍 ${prefName}, Japan`));
+    if (item.price) dialogContent.appendChild(makeElement("p", "dialog-price", item.price));
+
+    // pills
+    const pills = makeElement("div", "dialog-classification");
+    [regionNames[region], capitalize(item.item), ...(Array.isArray(item.type) ? item.type.map(capitalize) : [])]
+      .filter(Boolean).forEach(t => pills.appendChild(makeElement("span", "dialog-tag", t)));
+    dialogContent.appendChild(pills);
+
+    // about
+    const paragraphs = Array.isArray(item.description) ? item.description : (item.description ? [item.description] : []);
+    if (paragraphs.length) {
+      dialogContent.appendChild(makeElement("h3", "dialog-section", "About this piece"));
+      dialogContent.appendChild(infoCard("", paragraphs.map(p => makeElement("p", "info-text", p))));
+    }
+
+    // where to find it (optional field: where: [{label, status, text, link?}])
+    if (Array.isArray(item.where) && item.where.length) {
+      dialogContent.appendChild(makeElement("h3", "dialog-section", "Where to find it"));
+      item.where.forEach(w => {
+        const body = [];
+        if (w.text) body.push(makeElement("p", "info-text", w.text));
+        if (w.link) {
+          const a = document.createElement("a");
+          a.href = w.link; a.target = "_blank"; a.rel = "noopener noreferrer";
+          a.textContent = w.link_label || "More info";
+          body.push(a);
+        }
+        dialogContent.appendChild(infoCard(w.label, body, w.status));
+      });
+    }
+
+    // details
+    dialogContent.appendChild(makeElement("h3", "dialog-section", "Details"));
+    const grid = makeElement("dl", "detail-grid");
+    [["Prefecture", prefName], ["Region", regionNames[region]], ["Item", capitalize(item.item)],
+     ["Type", (item.type || []).map(capitalize).join(", ")]].filter(r => r[1]).forEach(([k, v]) => {
+      const box = makeElement("div", "detail-cell");
+      box.append(makeElement("dt", "", k), makeElement("dd", "", v));
+      grid.appendChild(box);
     });
+    dialogContent.appendChild(grid);
 
-    dialogContent.appendChild(classification);
-
-    // IMAGE CREDIT
-
+    // credit
     if (item.image_credit || item.image_source) {
       const credit = makeElement("div", "dialog-credit");
-
-      if (item.image_credit) {
-        credit.textContent = `Image credit: ${item.image_credit}`;
-      }
-
+      if (item.image_credit) credit.textContent = `Image credit: ${item.image_credit}`;
       if (item.image_source) {
         const link = document.createElement("a");
-        link.href = item.image_source;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
+        link.href = item.image_source; link.target = "_blank"; link.rel = "noopener noreferrer";
         link.textContent = " View original source";
-
         credit.appendChild(link);
       }
-
       dialogContent.appendChild(credit);
     }
 
+    dialog.scrollTop = 0;
     dialog.showModal();
+    history.replaceState(null, "", "#" + encodeURIComponent(item.title));
   }
 
   // FILTER AND SEARCH
@@ -358,9 +361,8 @@ document.addEventListener("DOMContentLoaded", () => {
   typeFilter.addEventListener("change", applyFilters);
   clearButton.addEventListener("click", clearFilters);
 
-  dialogClose.addEventListener("click", () => {
-    dialog.close();
-  });
+  dialogClose.addEventListener("click", () => dialog.close());
+  dialog.addEventListener("close", () => history.replaceState(null, "", location.pathname));
 
   dialog.addEventListener("click", event => {
     if (event.target === dialog) {
@@ -387,6 +389,10 @@ document.addEventListener("DOMContentLoaded", () => {
       );
 
       applyFilters();
+
+      const hash = decodeURIComponent(location.hash.slice(1));
+      const linked = allItems.find(i => i.title === hash);
+      if (linked) openItem(linked);
 
     } catch (error) {
       console.error(error);
