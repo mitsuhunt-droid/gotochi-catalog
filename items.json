@@ -320,5 +320,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "shinshu-soba-1",
+      "title": "Lazing around with shinshu soba",
+      "prefecture": "nagano",
+      "region": "chubu",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Shinshu Soba** (信州そば), a renowned regional specialty from **Nagano** prefecture. It highlights these traditional buckwheat noodles, which are famous throughout Japan for their high quality and deep connection to the mountainous landscapes of the **Shinshu** region.",
+  "The design features **Rilakkuma** holding a traditional **Soba Box (Seiro)** filled with noodles. **Kiiroitori** accompanies him, playfully peeking out from a red **Yutou**, a traditional vessel used to serve the hot water left over from boiling soba.",
+  "The background art depicts the majestic, snow-capped **Japanese Alps** under a clear sky, alongside a traditional purple **Noren Curtain**. The scenery captures the fresh, rustic atmosphere and culinary heritage associated with this famous regional dish."
+      ],
+      "image": "images/shinshu-soba.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
