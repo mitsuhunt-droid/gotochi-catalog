@@ -337,5 +337,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "dairy-cow-1",
+      "title": "Lazing around dairy cow",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "animal",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Hokkaidō**’s famous dairy industry, as the region is known as Japan’s “Milk Island”. Thanks to its cool climate and vast pastures, **Hokkaidō** produces more than half of the country’s milk, making its high-quality butter, cheese and soft-serve ice cream iconic symbols of the prefecture.",
+  "The design features **Rilakkuma** lying on his stomach atop a black-and-white **Dairy Cow** marked with the inscription “**Hokkaidō**” (北海道). He is holding a small bottle of fresh milk, while **Kiiroitori** perches on the back of a second, smaller cow.",
+  "The background art illustrates the scenic rolling hills and green pastures of the **Tokachi** or **Kushiro** regions, complete with a red-roofed silo under a clear blue sky. The scenery captures the peaceful atmosphere of rural farm life in northern Japan."
+      ],
+      "image": "images/dairy-cow.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
