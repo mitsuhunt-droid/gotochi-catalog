@@ -148,7 +148,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function placeholder(text) {
     const wrap = makeElement("span", "item-image-placeholder");
-    wrap.innerHTML = '<svg viewBox="0 0 120 120" aria-hidden="true"><use href="#bear"/></svg>';
+    const bear = document.createElement("img");
+    bear.src = "images/rilakkuma.png";
+    bear.alt = "";
+    wrap.appendChild(bear);
     wrap.appendChild(makeElement("em", "", text));
     return wrap;
   }
