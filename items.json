@@ -606,6 +606,24 @@
       "image": "images/melon-1.png",
       "image_source": "",
       "image_credit": ""
+    },
+    {
+      "id": "hamanasu-1",
+      "title": "Lazing around with hamanasu",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "scenery",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Hamanasu** (ハマナス), or Japanese rugosa rose, a wild flowering shrub native to coastal areas of northern Japan. Known for its vibrant pink flowers and distinctive fragrance, it is especially associated with **Hokkaidō**, where it is recognised as the prefecture’s official flower and a symbol of its natural landscape.",
+        "The design features **Rilakkuma** peeking over a large, bright pink **Hamanasu** flower, with its golden centre and delicate petals. **Kiiroitori** accompanies him, peeking out from behind a smaller flower attached to a green stem.",
+        "The background art depicts a colourful floral landscape filled with blooming pink and white **Hamanasu** flowers, set against green vegetation, the blue sea and a bright sky with soft clouds. The scenery celebrates the natural beauty of **Hokkaidō** and the wild roses that flourish along its coastlines."
+      ],
+      "image": "images/hamanasu.png",
+      "image_source": "",
+      "image_credit": ""
     }
   ]
 }
