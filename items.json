@@ -50,7 +50,7 @@
   ],
   "items": [
     {
-      "id": "hokkaido-clione-001",
+      "id": "clione-1",
       "title": "Lazing around with clione",
       "prefecture": "hokkaido",
       "region": "hokkaido",
@@ -67,7 +67,7 @@
     }
     ,
     {
-      "id": "tokyo-tower-002",
+      "id": "tokyo-tower-2",
       "title": "Lazing around at Tokyo Tower 2",
       "prefecture": "tokyo",
       "region": "kanto",
@@ -79,6 +79,23 @@
   "The background art captures a beautiful **nighttime view of Tokyo Tower**, illuminated against a deep blue sky scattered with **bright yellow stars**. The scene evokes the romantic atmosphere of the city after dark, highlighting the tower as one of Tokyo’s most recognizable landmarks."
       ],
       "image": "images/tokyo-tower-2.png",
+      "image_source": "",
+      "image_credit": ""
+    }
+    ,
+    {
+      "id": "donut-1",
+      "title": "Lazing around with donut",
+      "prefecture": "tokyo",
+      "region": "kanto",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+     "This piece celebrates **donuts**, a beloved sweet treat featured in this **Tokyo-exclusive** (東京限定) Rilakkuma design. The theme revolves around a playful assortment of colorful donuts, highlighting their different shapes, flavors and decorative toppings through a cheerful pastel aesthetic.",
+  "The design features **Rilakkuma** enjoying a delicious assortment of donuts, holding a golden ring-shaped pastry with chocolate icing. **Kiiroitori** also makes an appearance inside a chocolate-glazed donut, creating a playful detail that brings the sweet theme to life. The collectible comes as a decorative **phone strap charm**, featuring pastel beads and a small circular character charm.",
+  "The background art on the packaging features a soft **pink polka-dot pattern** with colorful illustrations of donuts, including chocolate-glazed and custard-filled varieties. Additional illustrations of Rilakkuma and his friends enjoying these treats complete the design, creating a cheerful **donut-themed aesthetic** in shades of pink, yellow and pastel blue."
+      ],
+      "image": "images/donut.png",
       "image_source": "",
       "image_credit": ""
     }
