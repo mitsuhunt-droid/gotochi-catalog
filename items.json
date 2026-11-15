@@ -507,5 +507,39 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "daruma-2",
+      "title": "Lazing around with daruma",
+      "prefecture": "gunma",
+      "region": "kanto",
+      "item": "item",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Daruma** (だるま), traditional Japanese good-luck dolls symbolising perseverance, determination and the fulfilment of wishes. It highlights the **Takasaki Daruma**, a famous regional variety from **Gunma** prefecture, recognised for its distinctive rounded shape and expressive facial features. Takasaki is one of Japan’s most important centres of Daruma production.",
+  "The design features **Rilakkuma** holding a traditional **calligraphy brush** with a black ink tip in one paw and a small red **Daruma** doll in the other. **Kiiroitori** accompanies him, holding two small yellow decorative fans, one in each wing. The scene evokes the traditional practice of making wishes and decorating Daruma dolls.",
+  "The background art depicts rows of traditional red **Daruma** dolls arranged against a striped backdrop. Their bold expressions and rounded shapes capture the cheerful appearance of these lucky charms and reflect **Gunma** prefecture’s long-standing Daruma-making tradition."
+      ],
+      "image": "images/daruma-2.png",
+      "image_source": "",
+      "image_credit": ""
+    }
+     ,
+    {
+      "id": "rice-bales-2",
+      "title": "Lazing around with rice bales",
+      "prefecture": "niigata",
+      "region": "chubu",
+      "item": "item",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Kome-dawara** (米俵), traditional Japanese rice straw bales used to store and transport rice. It highlights the agricultural heritage of **Niigata** prefecture, one of Japan’s most famous rice-producing regions, particularly renowned for the quality of its rice and fertile farmland.",
+  "The design features **Rilakkuma** sitting comfortably on a stack of golden **rice bales**, recreating the traditional appearance of bundled rice straw. **Kiiroitori** accompanies him, perched on top of a small white woven basket.",
+  "The background art depicts a picturesque rural landscape filled with golden rice fields beneath a warm sunset-coloured sky. The scenery evokes the traditional rice-growing countryside of **Niigata**, celebrating the region’s strong agricultural identity and its long-standing connection to rice cultivation."
+      ],
+      "image": "images/rice-bales-2.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
