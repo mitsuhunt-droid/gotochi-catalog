@@ -422,5 +422,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "date-masamune-1",
+      "title": "Lazing around as Date Masamune",
+      "prefecture": "miyagi",
+      "region": "tohoku",
+      "item": "item",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Date Masamune** (伊達政宗), the powerful feudal lord who founded the city of **Sendai** and became one of the most iconic historical figures of **Miyagi** prefecture. Known as the One-Eyed Dragon of Ōshū, he is remembered for his distinctive crescent-shaped helmet and his influence on the region’s history.",
+  "The design features **Rilakkuma** dressed as **Date Masamune**, wearing dark samurai armour and his signature helmet with a golden crescent-shaped crest. **Kiiroitori** accompanies him, dressed in a matching samurai-inspired outfit.",
+  "The background art depicts **Aoba Castle** (青葉城), also known as Sendai Castle, with its historic stone walls and traditional architecture set against a bright blue sky. A purple banner bearing the castle’s name reinforces the connection to **Sendai** and its samurai heritage."
+      ],
+      "image": "images/date-masamune.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
