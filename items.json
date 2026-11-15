@@ -55,7 +55,9 @@
       "prefecture": "hokkaido",
       "region": "hokkaido",
       "item": "animal",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
         "This piece celebrates the **clione** (クリオネ), a fascinating marine creature known as the “**sea angel**” that inhabits the freezing waters of **Hokkaidō**. It highlights these tiny, translucent mollusks which have become a symbol of the northern region’s **marine biodiversity**, particularly famous for their graceful swimming in the **Sea of Okhotsk**.",
         "The design features **Rilakkuma** playfully hugging a large, translucent **clione**. The clione is crafted with a **clear, jelly-like finish** and features the characteristic **red internal organs** that give these creatures their “angelic” appearance.",
@@ -64,480 +66,527 @@
       "image": "images/clione.png",
       "image_source": "",
       "image_credit": ""
-    }
-    ,
+    },
     {
       "id": "tokyo-tower-2",
       "title": "Lazing around at Tokyo Tower #2",
       "prefecture": "tokyo",
       "region": "kanto",
       "item": "structure",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-      "This piece celebrates the **Tokyo Tower** (東京タワー), the iconic communications and observation tower located in the **Minato** district of **Tokyo**. Inspired by the Eiffel Tower and painted in its distinctive **international orange and white** colors to comply with aviation safety regulations, it has become a symbol of Japan’s post-war rebirth and one of the most beloved landmarks of the capital’s skyline.",
-  "The design features **Rilakkuma** playfully hugging the upper observation deck of a vibrant red and white **Tokyo Tower**. **Kiiroitori** is seen flying alongside the tower’s tip, holding a small red flag displaying the word “**Tokyo**” (東京).",
-  "The background art captures a beautiful **nighttime view of Tokyo Tower**, illuminated against a deep blue sky scattered with **bright yellow stars**. The scene evokes the romantic atmosphere of the city after dark, highlighting the tower as one of Tokyo’s most recognizable landmarks."
+        "This piece celebrates the **Tokyo Tower** (東京タワー), the iconic communications and observation tower located in the **Minato** district of **Tokyo**. Inspired by the Eiffel Tower and painted in its distinctive **international orange and white** colors to comply with aviation safety regulations, it has become a symbol of Japan’s post-war rebirth and one of the most beloved landmarks of the capital’s skyline.",
+        "The design features **Rilakkuma** playfully hugging the upper observation deck of a vibrant red and white **Tokyo Tower**. **Kiiroitori** is seen flying alongside the tower’s tip, holding a small red flag displaying the word “**Tokyo**” (東京).",
+        "The background art captures a beautiful **nighttime view of Tokyo Tower**, illuminated against a deep blue sky scattered with **bright yellow stars**. The scene evokes the romantic atmosphere of the city after dark, highlighting the tower as one of Tokyo’s most recognizable landmarks."
       ],
       "image": "images/tokyo-tower-2.png",
       "image_source": "",
       "image_credit": ""
-    }
-    ,
+    },
     {
       "id": "donut-1",
       "title": "Lazing around with donut",
       "prefecture": "tokyo",
       "region": "kanto",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-     "This piece celebrates **donuts**, a beloved sweet treat featured in this **Tokyo-exclusive** (東京限定) Rilakkuma design. The theme revolves around a playful assortment of colorful donuts, highlighting their different shapes, flavors and decorative toppings through a cheerful pastel aesthetic.",
-  "The design features **Rilakkuma** enjoying a delicious assortment of donuts, holding a golden ring-shaped pastry with chocolate icing. **Kiiroitori** also makes an appearance inside a chocolate-glazed donut, creating a playful detail that brings the sweet theme to life. The collectible comes as a decorative **phone strap charm**, featuring pastel beads and a small circular character charm.",
-  "The background art on the packaging features a soft **pink polka-dot pattern** with colorful illustrations of donuts, including chocolate-glazed and custard-filled varieties. Additional illustrations of Rilakkuma and his friends enjoying these treats complete the design, creating a cheerful **donut-themed aesthetic** in shades of pink, yellow and pastel blue."
+        "This piece celebrates **donuts**, a beloved sweet treat featured in this **Tokyo-exclusive** (東京限定) Rilakkuma design. The theme revolves around a playful assortment of colorful donuts, highlighting their different shapes, flavors and decorative toppings through a cheerful pastel aesthetic.",
+        "The design features **Rilakkuma** enjoying a delicious assortment of donuts, holding a golden ring-shaped pastry with chocolate icing. **Kiiroitori** also makes an appearance inside a chocolate-glazed donut, creating a playful detail that brings the sweet theme to life. The collectible comes as a decorative **phone strap charm**, featuring pastel beads and a small circular character charm.",
+        "The background art on the packaging features a soft **pink polka-dot pattern** with colorful illustrations of donuts, including chocolate-glazed and custard-filled varieties. Additional illustrations of Rilakkuma and his friends enjoying these treats complete the design, creating a cheerful **donut-themed aesthetic** in shades of pink, yellow and pastel blue."
       ],
       "image": "images/donut.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "himeji-oden-1",
       "title": "Lazing around with himeji oden",
       "prefecture": "hyogo",
       "region": "kansai",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-    "This piece celebrates **Himeji oden** (姫路おでん) from **Hyōgo** prefecture. Famous for its unique regional twist, Himeji oden is traditionally served with a distinctive side of **ginger soy sauce** (生姜醤油), which adds a warm, zesty kick to the simmering broth and tender ingredients.",
-  "The design features **Rilakkuma** holding a skewer of classic oden items marked with the clear inscription “**Himeji oden**” (姫路おでん), accompanied by **Kiiroitori** holding his own matching oden skewer.",
-  "The background art captures the iconic and majestic **Himeji Castle** (姫路城) rising gracefully under a bright sky. It is a charming tribute to the local culinary pride and historic heritage of **Hyōgo**’s castle town."
+        "This piece celebrates **Himeji oden** (姫路おでん) from **Hyōgo** prefecture. Famous for its unique regional twist, Himeji oden is traditionally served with a distinctive side of **ginger soy sauce** (生姜醤油), which adds a warm, zesty kick to the simmering broth and tender ingredients.",
+        "The design features **Rilakkuma** holding a skewer of classic oden items marked with the clear inscription “**Himeji oden**” (姫路おでん), accompanied by **Kiiroitori** holding his own matching oden skewer.",
+        "The background art captures the iconic and majestic **Himeji Castle** (姫路城) rising gracefully under a bright sky. It is a charming tribute to the local culinary pride and historic heritage of **Hyōgo**’s castle town."
       ],
       "image": "images/himeji-oden.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "trout-sushi-1",
       "title": "Lazing around with trout sushi",
       "prefecture": "toyama",
       "region": "chubu",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-   "This piece celebrates **Masu-no-sushi** (ますの寿し), a renowned regional delicacy from **Toyama** prefecture. It highlights this famous type of pressed **Trout Sushi**, which is a staple of the region’s culinary identity and a popular choice for travelers due to its long history and unique presentation wrapped in bamboo leaves.",
-  "The design features **Rilakkuma** holding a miniature circular wooden tub filled with **Masu-no-sushi**, showcasing the vibrant color of the trout.",
-  "The background art depicts powerful **waves crashing against coastal rocks** under a bright blue sky, alongside a close-up illustration of the traditional sushi container. The scenery captures the fresh, maritime atmosphere and distinctive culinary heritage of this **coastal prefecture**."
+        "This piece celebrates **Masu-no-sushi** (ますの寿し), a renowned regional delicacy from **Toyama** prefecture. It highlights this famous type of pressed **Trout Sushi**, which is a staple of the region’s culinary identity and a popular choice for travelers due to its long history and unique presentation wrapped in bamboo leaves.",
+        "The design features **Rilakkuma** holding a miniature circular wooden tub filled with **Masu-no-sushi**, showcasing the vibrant color of the trout.",
+        "The background art depicts powerful **waves crashing against coastal rocks** under a bright blue sky, alongside a close-up illustration of the traditional sushi container. The scenery captures the fresh, maritime atmosphere and distinctive culinary heritage of this **coastal prefecture**."
       ],
       "image": "images/trout-sushi.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "amaou-strawberry-1",
       "title": "Lazing around with amaou ichigo",
       "prefecture": "fukuoka",
       "region": "kyushu",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-   "This piece celebrates **Amaou Ichigo** (あまおういちご) from **Fukuoka** prefecture. As one of Japan’s most premium strawberry varieties, the Amaou is famous for being incredibly large, round and sweet, earning it the title of the “king of strawberries.” It is grown in the lush, sunny fields of **Kyūshū**.",
-  "The design features **Rilakkuma** lounging in his signature relaxed pose atop a harvest crate overflowing with ruby-red strawberries. The white crate is marked with the clear inscription “**Amaou Ichigo**” (あまおういちご), signifying the official name of this premium fruit variety.",
-  "The background art captures a serene view of a professional **strawberry greenhouse**, where rows of ripe fruit hang beneath a bright, clear sky. It is a charming tribute to the agricultural excellence and sweet seasonal harvest of the **Fukuoka** countryside."
+        "This piece celebrates **Amaou Ichigo** (あまおういちご) from **Fukuoka** prefecture. As one of Japan’s most premium strawberry varieties, the Amaou is famous for being incredibly large, round and sweet, earning it the title of the “king of strawberries.” It is grown in the lush, sunny fields of **Kyūshū**.",
+        "The design features **Rilakkuma** lounging in his signature relaxed pose atop a harvest crate overflowing with ruby-red strawberries. The white crate is marked with the clear inscription “**Amaou Ichigo**” (あまおういちご), signifying the official name of this premium fruit variety.",
+        "The background art captures a serene view of a professional **strawberry greenhouse**, where rows of ripe fruit hang beneath a bright, clear sky. It is a charming tribute to the agricultural excellence and sweet seasonal harvest of the **Fukuoka** countryside."
       ],
       "image": "images/amaou-strawberry.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "kobe-ijinkan-1",
       "title": "Lazing around at Kobe Ijinkan",
       "prefecture": "hyogo",
       "region": "kansai",
       "item": "structure",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-  "This piece celebrates **Kobe Ijinkan** (神戸異人館) in **Hyōgo** prefecture. Located on the picturesque slopes of **Kitano-chō** (北野町), this historical district is famous for its Western-style foreign residences built during the Meiji and Taishō eras.",
-  "The design features **Rilakkuma** dressed in a sophisticated vintage top hat and bowtie, holding a golden walking cane and posing alongside a miniature replica of the iconic **Weathercock House** (風見鶏の館) marked with “**Kōbe**”. **Kiiroitori** joins in the classic aesthetic with his own tiny top hat.",
-  "The background art captures the serene scenery of the **red-brick mansion** and its famous rooster weather vane standing against a bright blue sky. It is a delightful tribute to the rich **architectural heritage** and romantic coastal charm of **Kōbe**."
+        "This piece celebrates **Kobe Ijinkan** (神戸異人館) in **Hyōgo** prefecture. Located on the picturesque slopes of **Kitano-chō** (北野町), this historical district is famous for its Western-style foreign residences built during the Meiji and Taishō eras.",
+        "The design features **Rilakkuma** dressed in a sophisticated vintage top hat and bowtie, holding a golden walking cane and posing alongside a miniature replica of the iconic **Weathercock House** (風見鶏の館) marked with “**Kōbe**”. **Kiiroitori** joins in the classic aesthetic with his own tiny top hat.",
+        "The background art captures the serene scenery of the **red-brick mansion** and its famous rooster weather vane standing against a bright blue sky. It is a delightful tribute to the rich **architectural heritage** and romantic coastal charm of **Kōbe**."
       ],
       "image": "images/kobe-ijinkan.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "korila-happiness-1",
       "title": "Korilakkuma at Happiness Station",
       "prefecture": "hokkaido",
       "region": "hokkaido",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
- "This piece is a variation of the **Kofuku Station** (幸福駅) theme from **Hokkaidō**, featuring **Korilakkuma**. Known as the “**Station of Happiness**”, this landmark in the **Tokachi** region is famous for its romantic legacy, where visitors from all over the world come to post wooden plaques and buy symbolic tickets representing a lifetime of joy.",
-  "The design features **Korilakkuma** dressed in a charming navy station master’s hat, leaning over a large pink replica of the iconic **Kofuku** ticket that reads “**Bound for Happiness**” (幸福ゆき). **Kiiroitori** joins the scene wearing his own conductor’s cap, playfully perched atop a vibrant pink heart that proudly displays “**Hokkaidō**.”",
-  "The background art depicts classic **orange train cars** and the peaceful, open landscapes of northern Japan, capturing the nostalgic and hopeful spirit of this beloved memorial park."
+        "This piece is a variation of the **Kofuku Station** (幸福駅) theme from **Hokkaidō**, featuring **Korilakkuma**. Known as the “**Station of Happiness**”, this landmark in the **Tokachi** region is famous for its romantic legacy, where visitors from all over the world come to post wooden plaques and buy symbolic tickets representing a lifetime of joy.",
+        "The design features **Korilakkuma** dressed in a charming navy station master’s hat, leaning over a large pink replica of the iconic **Kofuku** ticket that reads “**Bound for Happiness**” (幸福ゆき). **Kiiroitori** joins the scene wearing his own conductor’s cap, playfully perched atop a vibrant pink heart that proudly displays “**Hokkaidō**.”",
+        "The background art depicts classic **orange train cars** and the peaceful, open landscapes of northern Japan, capturing the nostalgic and hopeful spirit of this beloved memorial park."
       ],
       "image": "images/korila-happiness.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "dotonbori-1",
       "title": "Lazing around in Dōtonbori",
       "prefecture": "osaka",
       "region": "kansai",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Dōtonbori** (道頓堀), a famous entertainment and shopping district in **Osaka** prefecture. Known for its vibrant neon signs, lively atmosphere and rich street food culture, Dōtonbori is one of the city’s most recognizable destinations, particularly famous for its seafood specialties and iconic giant crab displays.",
-  "The design features **Rilakkuma** wearing a traditional red-and-white striped hat, sitting behind a miniature **seafood display** featuring a bright red crab and a blue-and-white fish. **Kiiroitori** appears beside him, holding two small Japanese-style fans, each decorated with a red circle at its center. The food display is marked with the inscription “Dōtonbori” (道頓堀).",
-  "The background art captures the colorful atmosphere of **Osaka**, featuring a large red crab illustration, vibrant advertisements and the characteristic busy streets of Dōtonbori. The packaging also displays the inscription **“Osaka Exclusive”** (大阪限定), making this piece a charming tribute to the district’s famous seafood culture and lively urban character."
+        "This piece celebrates **Dōtonbori** (道頓堀), a famous entertainment and shopping district in **Osaka** prefecture. Known for its vibrant neon signs, lively atmosphere and rich street food culture, Dōtonbori is one of the city’s most recognizable destinations, particularly famous for its seafood specialties and iconic giant crab displays.",
+        "The design features **Rilakkuma** wearing a traditional red-and-white striped hat, sitting behind a miniature **seafood display** featuring a bright red crab and a blue-and-white fish. **Kiiroitori** appears beside him, holding two small Japanese-style fans, each decorated with a red circle at its center. The food display is marked with the inscription “Dōtonbori” (道頓堀).",
+        "The background art captures the colorful atmosphere of **Osaka**, featuring a large red crab illustration, vibrant advertisements and the characteristic busy streets of Dōtonbori. The packaging also displays the inscription **“Osaka Exclusive”** (大阪限定), making this piece a charming tribute to the district’s famous seafood culture and lively urban character."
       ],
       "image": "images/dotonbori.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "seal-1",
       "title": "Lazing around with seal",
       "prefecture": "hokkaido",
       "region": "hokkaido",
       "item": "animal",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **seals**, marine mammals commonly associated with the cold coastal waters of **Hokkaidō**. These graceful animals are a familiar sight in the northern region of Japan, where they inhabit the surrounding seas and are often featured as part of its distinctive marine wildlife.",
-  "The design features **Rilakkuma** lazily lounging on the back of a white **seal**, while **Kiiroitori** playfully rides alongside him. The seal is depicted with a smooth, rounded body and a cheerful expression, creating an adorable winter-inspired scene.",
-  "The background art captures a peaceful **icy seascape**, with soft blue waves and pale horizontal patterns reminiscent of the cold northern waters. The packaging also displays the inscription “Hokkaidō Exclusive” (北海道限定), making this piece a charming tribute to the marine wildlife of Japan’s northernmost island."
+        "This piece celebrates **seals**, marine mammals commonly associated with the cold coastal waters of **Hokkaidō**. These graceful animals are a familiar sight in the northern region of Japan, where they inhabit the surrounding seas and are often featured as part of its distinctive marine wildlife.",
+        "The design features **Rilakkuma** lazily lounging on the back of a white **seal**, while **Kiiroitori** playfully rides alongside him. The seal is depicted with a smooth, rounded body and a cheerful expression, creating an adorable winter-inspired scene.",
+        "The background art captures a peaceful **icy seascape**, with soft blue waves and pale horizontal patterns reminiscent of the cold northern waters. The packaging also displays the inscription “Hokkaidō Exclusive” (北海道限定), making this piece a charming tribute to the marine wildlife of Japan’s northernmost island."
       ],
       "image": "images/seal.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "firefly-squid-1",
       "title": "Lazing around with firefly squid",
       "prefecture": "toyama",
       "region": "chubu",
       "item": "animal",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates the **Hotaru-ika** (ホタルイカ), or firefly squid, a fascinating marine creature closely associated with **Toyama** prefecture. During spring, thousands of these tiny squid migrate to **Toyama Bay**, emitting a brilliant deep-blue bioluminescent light that illuminates the shoreline at night.",
-  "The design features **Rilakkuma** hugging a large white-and-blue **Hotaru-ika** marked with the inscription “**Toyama**” (富山), while **Kiiroitori** perches on a smaller squid alongside him.",
-  "The background art captures the magical **blue wave phenomenon** of the bay at night, illustrating the sparkling lights that make this natural spectacle one of the most famous sights in the **Hokuriku** region."
+        "This piece celebrates the **Hotaru-ika** (ホタルイカ), or firefly squid, a fascinating marine creature closely associated with **Toyama** prefecture. During spring, thousands of these tiny squid migrate to **Toyama Bay**, emitting a brilliant deep-blue bioluminescent light that illuminates the shoreline at night.",
+        "The design features **Rilakkuma** hugging a large white-and-blue **Hotaru-ika** marked with the inscription “**Toyama**” (富山), while **Kiiroitori** perches on a smaller squid alongside him.",
+        "The background art captures the magical **blue wave phenomenon** of the bay at night, illustrating the sparkling lights that make this natural spectacle one of the most famous sights in the **Hokuriku** region."
       ],
       "image": "images/firefly-squid.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "kinmedai-1",
       "title": "Lazing around with kinmedai",
       "prefecture": "shizuoka",
       "region": "chubu",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Kinmedai** (金目鯛), also known as splendid alfonsino, a prized deep-sea fish particularly associated with **Shizuoka** prefecture. Recognized for its vibrant reddish-pink scales and delicate, rich flavor, kinmedai is a popular local delicacy, especially in the coastal communities along the Izu Peninsula.",
-  "The design features **Rilakkuma** holding a small red **Kinmedai** fish in his paws, while another fish appears alongside **Kiiroitori**. The figures are arranged on a miniature display marked with the inscription “Shizuoka Kinmedai” (静岡 金目鯛), celebrating this regional seafood specialty.",
-  "The background art depicts an underwater-inspired scene with blue ocean waves and illustrations of reddish-orange fish swimming through the water. The packaging also displays the inscription **“Shizuoka Exclusive”** (静岡限定), making this piece a charming tribute to the coastal scenery and culinary heritage of **Shizuoka**."
+        "This piece celebrates **Kinmedai** (金目鯛), also known as splendid alfonsino, a prized deep-sea fish particularly associated with **Shizuoka** prefecture. Recognized for its vibrant reddish-pink scales and delicate, rich flavor, kinmedai is a popular local delicacy, especially in the coastal communities along the Izu Peninsula.",
+        "The design features **Rilakkuma** holding a small red **Kinmedai** fish in his paws, while another fish appears alongside **Kiiroitori**. The figures are arranged on a miniature display marked with the inscription “Shizuoka Kinmedai” (静岡 金目鯛), celebrating this regional seafood specialty.",
+        "The background art depicts an underwater-inspired scene with blue ocean waves and illustrations of reddish-orange fish swimming through the water. The packaging also displays the inscription **“Shizuoka Exclusive”** (静岡限定), making this piece a charming tribute to the coastal scenery and culinary heritage of **Shizuoka**."
       ],
       "image": "images/kinmedai.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "karashi-renkon-1",
       "title": "Lazing around with karashi renkon",
       "prefecture": "kumamoto",
       "region": "kyushu",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Karashi Renkon** (からし蓮根), a traditional regional delicacy from **Kumamoto** prefecture. This distinctive dish consists of lotus root filled with a spicy mustard and miso mixture, coated in batter and deep-fried until golden. Known for its characteristic circular pattern and bold flavor, it is one of Kumamoto’s most recognizable local specialties.",
-  "The design features **Rilakkuma** holding a freshly cut slice of **Karashi Renkon**, showcasing its distinctive lotus root holes filled with bright yellow mustard paste. **Kiiroitori** joins him alongside another miniature slice of this traditional delicacy.",
-  "The background art features illustrations of freshly sliced **lotus root** and a warm golden-yellow color palette, reflecting the appearance of this regional specialty. The packaging also displays the inscription **“Kumamoto Exclusive”** (熊本限定), making this piece a charming tribute to the culinary traditions of **Kumamoto**."
+        "This piece celebrates **Karashi Renkon** (からし蓮根), a traditional regional delicacy from **Kumamoto** prefecture. This distinctive dish consists of lotus root filled with a spicy mustard and miso mixture, coated in batter and deep-fried until golden. Known for its characteristic circular pattern and bold flavor, it is one of Kumamoto’s most recognizable local specialties.",
+        "The design features **Rilakkuma** holding a freshly cut slice of **Karashi Renkon**, showcasing its distinctive lotus root holes filled with bright yellow mustard paste. **Kiiroitori** joins him alongside another miniature slice of this traditional delicacy.",
+        "The background art features illustrations of freshly sliced **lotus root** and a warm golden-yellow color palette, reflecting the appearance of this regional specialty. The packaging also displays the inscription **“Kumamoto Exclusive”** (熊本限定), making this piece a charming tribute to the culinary traditions of **Kumamoto**."
       ],
       "image": "images/karashi-renkon.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "kobe-ijinkan-2",
       "title": "Lazing around at Kobe Ijinkan",
       "prefecture": "hyogo",
       "region": "kansai",
       "item": "structure",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Kobe Ijinkan** (神戸異人館), a historic district in **Hyōgo** prefecture. Located in the picturesque **Kitano-chō** (北野町) area, it is famous for its Western-style foreign residences built during the Meiji and Taishō eras, reflecting the international influences that shaped Kobe’s history.",
-  "The design features **Rilakkuma** dressed in a charming vintage outfit, wearing a dark hat and a red bowtie while standing beside a miniature Western-style house marked with the inscription “**KOBE**”. **Kiiroitori** appears alongside him, wearing a small blue accessory that complements the historical theme.",
-  "The background art depicts a charming streetscape inspired by the **Kobe Ijinkan district**, featuring a pink sky, green trees and the silhouette of a traditional Western-style residence. The miniature house and vintage-inspired details make this piece a delightful tribute to the architectural heritage and nostalgic atmosphere of **Kobe**."
+        "This piece celebrates **Kobe Ijinkan** (神戸異人館), a historic district in **Hyōgo** prefecture. Located in the picturesque **Kitano-chō** (北野町) area, it is famous for its Western-style foreign residences built during the Meiji and Taishō eras, reflecting the international influences that shaped Kobe’s history.",
+        "The design features **Rilakkuma** dressed in a charming vintage outfit, wearing a dark hat and a red bowtie while standing beside a miniature Western-style house marked with the inscription “**KOBE**”. **Kiiroitori** appears alongside him, wearing a small blue accessory that complements the historical theme.",
+        "The background art depicts a charming streetscape inspired by the **Kobe Ijinkan district**, featuring a pink sky, green trees and the silhouette of a traditional Western-style residence. The miniature house and vintage-inspired details make this piece a delightful tribute to the architectural heritage and nostalgic atmosphere of **Kobe**."
       ],
       "image": "images/kobe-ijinkan-2.png",
       "image_source": "",
       "image_credit": ""
-    }
-    ,
+    },
     {
       "id": "mehiikari-1",
       "title": "Lazing around with mehiikari",
       "prefecture": "fukushima",
       "region": "tohoku",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Mehikari** (メヒカリ), a small deep-sea fish known for its distinctive large, luminous eyes and considered a local delicacy in **Fukushima** prefecture. Particularly associated with the coastal city of Iwaki, this fish is appreciated for its delicate flavor and is commonly enjoyed fried or grilled.",
-  "The design features **Rilakkuma** holding a blue-and-silver **Mehikari** fish, while **Kiiroitori** appears alongside him with a smaller matching fish. Both characters are surrounded by details inspired by this distinctive local seafood specialty.",
-  "The background art depicts a bright coastal scene with blue skies, fluffy white clouds and illustrations of swimming fish. The packaging also displays the inscription **“Fukushima Exclusive”** (福島限定), making this piece a charming tribute to the region’s fishing culture and local culinary heritage."
+        "This piece celebrates **Mehikari** (メヒカリ), a small deep-sea fish known for its distinctive large, luminous eyes and considered a local delicacy in **Fukushima** prefecture. Particularly associated with the coastal city of Iwaki, this fish is appreciated for its delicate flavor and is commonly enjoyed fried or grilled.",
+        "The design features **Rilakkuma** holding a blue-and-silver **Mehikari** fish, while **Kiiroitori** appears alongside him with a smaller matching fish. Both characters are surrounded by details inspired by this distinctive local seafood specialty.",
+        "The background art depicts a bright coastal scene with blue skies, fluffy white clouds and illustrations of swimming fish. The packaging also displays the inscription **“Fukushima Exclusive”** (福島限定), making this piece a charming tribute to the region’s fishing culture and local culinary heritage."
       ],
       "image": "images/mehiikari.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "takoyaki-3",
       "title": "Lazing around with takoyaki #3",
       "prefecture": "osaka",
       "region": "kansai",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Takoyaki** (たこ焼き), a beloved street food specialty from **Ōsaka** prefecture. These savory, ball-shaped octopus dumplings originated in the city and have become a symbol of its vibrant food culture. Known for its **Kuidaore** philosophy, often translated as “eat until you drop”, Ōsaka is home to countless street food stalls where preparing and skillfully flipping these golden batter balls is a cherished local tradition.",
-  "The design features **Rilakkuma** sitting next to a large, perfectly glazed **Takoyaki** topped with a tiny red octopus. **Kiiroitori** accompanies him, playfully peeking out from behind a second takoyaki.",
-  "The background art illustrates several delicious **Takoyaki** dumplings garnished with green seaweed and savory sauce, set against a warm, striped backdrop that captures the cozy and inviting atmosphere of a traditional **Ōsaka** food stall."
+        "This piece celebrates **Takoyaki** (たこ焼き), a beloved street food specialty from **Ōsaka** prefecture. These savory, ball-shaped octopus dumplings originated in the city and have become a symbol of its vibrant food culture. Known for its **Kuidaore** philosophy, often translated as “eat until you drop”, Ōsaka is home to countless street food stalls where preparing and skillfully flipping these golden batter balls is a cherished local tradition.",
+        "The design features **Rilakkuma** sitting next to a large, perfectly glazed **Takoyaki** topped with a tiny red octopus. **Kiiroitori** accompanies him, playfully peeking out from behind a second takoyaki.",
+        "The background art illustrates several delicious **Takoyaki** dumplings garnished with green seaweed and savory sauce, set against a warm, striped backdrop that captures the cozy and inviting atmosphere of a traditional **Ōsaka** food stall."
       ],
       "image": "images/takoyaki-3.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "shinshu-soba-1",
       "title": "Lazing around with shinshu soba",
       "prefecture": "nagano",
       "region": "chubu",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Shinshu Soba** (信州そば), a renowned regional specialty from **Nagano** prefecture. It highlights these traditional buckwheat noodles, which are famous throughout Japan for their high quality and deep connection to the mountainous landscapes of the **Shinshu** region.",
-  "The design features **Rilakkuma** holding a traditional **Soba Box (Seiro)** filled with noodles. **Kiiroitori** accompanies him, playfully peeking out from a red **Yutou**, a traditional vessel used to serve the hot water left over from boiling soba.",
-  "The background art depicts the majestic, snow-capped **Japanese Alps** under a clear sky, alongside a traditional purple **Noren Curtain**. The scenery captures the fresh, rustic atmosphere and culinary heritage associated with this famous regional dish."
+        "This piece celebrates **Shinshu Soba** (信州そば), a renowned regional specialty from **Nagano** prefecture. It highlights these traditional buckwheat noodles, which are famous throughout Japan for their high quality and deep connection to the mountainous landscapes of the **Shinshu** region.",
+        "The design features **Rilakkuma** holding a traditional **Soba Box (Seiro)** filled with noodles. **Kiiroitori** accompanies him, playfully peeking out from a red **Yutou**, a traditional vessel used to serve the hot water left over from boiling soba.",
+        "The background art depicts the majestic, snow-capped **Japanese Alps** under a clear sky, alongside a traditional purple **Noren Curtain**. The scenery captures the fresh, rustic atmosphere and culinary heritage associated with this famous regional dish."
       ],
       "image": "images/shinshu-soba.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "dairy-cow-1",
       "title": "Lazing around with dairy cow",
       "prefecture": "hokkaido",
       "region": "hokkaido",
       "item": "animal",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Hokkaidō**’s famous dairy industry, as the region is known as Japan’s “Milk Island”. Thanks to its cool climate and vast pastures, **Hokkaidō** produces more than half of the country’s milk, making its high-quality butter, cheese and soft-serve ice cream iconic symbols of the prefecture.",
-  "The design features **Rilakkuma** lying on his stomach atop a black-and-white **Dairy Cow** marked with the inscription “**Hokkaidō**” (北海道). He is holding a small bottle of fresh milk, while **Kiiroitori** perches on the back of a second, smaller cow.",
-  "The background art illustrates the scenic rolling hills and green pastures of the **Tokachi** or **Kushiro** regions, complete with a red-roofed silo under a clear blue sky. The scenery captures the peaceful atmosphere of rural farm life in northern Japan."
+        "This piece celebrates **Hokkaidō**’s famous dairy industry, as the region is known as Japan’s “Milk Island”. Thanks to its cool climate and vast pastures, **Hokkaidō** produces more than half of the country’s milk, making its high-quality butter, cheese and soft-serve ice cream iconic symbols of the prefecture.",
+        "The design features **Rilakkuma** lying on his stomach atop a black-and-white **Dairy Cow** marked with the inscription “**Hokkaidō**” (北海道). He is holding a small bottle of fresh milk, while **Kiiroitori** perches on the back of a second, smaller cow.",
+        "The background art illustrates the scenic rolling hills and green pastures of the **Tokachi** or **Kushiro** regions, complete with a red-roofed silo under a clear blue sky. The scenery captures the peaceful atmosphere of rural farm life in northern Japan."
       ],
       "image": "images/dairy-cow.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "spiny-lobster-2",
       "title": "Lazing around with spiny lobster #2",
       "prefecture": "mie",
       "region": "kansai",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates the **Ise-ebi** (伊勢海老), or Japanese spiny lobster, a prized seafood delicacy associated with the **Ise** region in **Mie** prefecture. Known for its sweet meat and brilliant red shell, it is often served at special celebrations and is considered a symbol of longevity due to its distinctive long antennae.",
-  "The design features **Rilakkuma** wearing a traditional white **Hachimaki** (headband) while hugging a large, bright red **Ise-ebi**. **Kiiroitori** accompanies him, carrying a small wooden bucket reminiscent of those used in traditional seafood markets.",
-  "The background art illustrates the rugged coastline of the **Shima Peninsula** and the famous **Meoto Iwa** (夫婦岩), or Married Couple Rocks, rising from the ocean. The scenery reflects the rich maritime traditions and spiritual heritage of **Mie** prefecture."
+        "This piece celebrates the **Ise-ebi** (伊勢海老), or Japanese spiny lobster, a prized seafood delicacy associated with the **Ise** region in **Mie** prefecture. Known for its sweet meat and brilliant red shell, it is often served at special celebrations and is considered a symbol of longevity due to its distinctive long antennae.",
+        "The design features **Rilakkuma** wearing a traditional white **Hachimaki** (headband) while hugging a large, bright red **Ise-ebi**. **Kiiroitori** accompanies him, carrying a small wooden bucket reminiscent of those used in traditional seafood markets.",
+        "The background art illustrates the rugged coastline of the **Shima Peninsula** and the famous **Meoto Iwa** (夫婦岩), or Married Couple Rocks, rising from the ocean. The scenery reflects the rich maritime traditions and spiritual heritage of **Mie** prefecture."
       ],
       "image": "images/spiny-lobster-2.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "spiny-lobster-1",
       "title": "Lazing around with spiny lobster",
       "prefecture": "mie",
       "region": "kansai",
       "item": "food",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece features **Ise-ebi** (伊勢海老), or Japanese spiny lobster, a luxury seafood delicacy named after the **Ise** region in **Mie** prefecture. Known for its sweet meat and brilliant red shell, it is often served at special celebrations and is considered a symbol of longevity due to its distinctive whisker-like antennae.",
-  "The design features **Rilakkuma** reclining peacefully on the back of a large, vibrant red **Ise-ebi**, using the lobster’s shell as a comfortable seat. **Kiiroitori** is positioned beside them, appearing to hitch a ride along with them.",
-  "The background art depicts the famous **Meoto Iwa** (夫婦岩), or Married Couple Rocks, joined by a sacred rope in the distance. The scene is set against the deep blue waters and splashing waves of the **Ise-Shima** coastline."
+        "This piece features **Ise-ebi** (伊勢海老), or Japanese spiny lobster, a luxury seafood delicacy named after the **Ise** region in **Mie** prefecture. Known for its sweet meat and brilliant red shell, it is often served at special celebrations and is considered a symbol of longevity due to its distinctive whisker-like antennae.",
+        "The design features **Rilakkuma** reclining peacefully on the back of a large, vibrant red **Ise-ebi**, using the lobster’s shell as a comfortable seat. **Kiiroitori** is positioned beside them, appearing to hitch a ride along with them.",
+        "The background art depicts the famous **Meoto Iwa** (夫婦岩), or Married Couple Rocks, joined by a sacred rope in the distance. The scene is set against the deep blue waters and splashing waves of the **Ise-Shima** coastline."
       ],
       "image": "images/spiny-lobster.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "clam-1",
       "title": "Lazing around with clam",
       "prefecture": "mie",
       "region": "kansai",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Nagashima** (長島), a coastal area in **Mie** prefecture renowned for its high-quality seafood. It highlights the **Hamaguri** (蛤), or oriental clam, a local specialty prized for its generous size and rich flavor. Often grilled over an open flame, it is a beloved regional delicacy.",
-  "The design features **Rilakkuma** sitting atop a large, light-blue **grilled clam shell**, with the name **Nagashima** (長島) written across the front in bold blue characters. **Kiiroitori** accompanies him, playfully peeking out from inside another **clam shell**.",
-  "The background art depicts a traditional scene of clams being grilled on a round mesh grate over an open fire. A vertical orange banner reads **Mie Meibutsu** (三重名物), identifying the clams as a famous local specialty. The blue sky and soft clouds capture the refreshing seaside atmosphere of the **Nagashima** coast."
+        "This piece celebrates **Nagashima** (長島), a coastal area in **Mie** prefecture renowned for its high-quality seafood. It highlights the **Hamaguri** (蛤), or oriental clam, a local specialty prized for its generous size and rich flavor. Often grilled over an open flame, it is a beloved regional delicacy.",
+        "The design features **Rilakkuma** sitting atop a large, light-blue **grilled clam shell**, with the name **Nagashima** (長島) written across the front in bold blue characters. **Kiiroitori** accompanies him, playfully peeking out from inside another **clam shell**.",
+        "The background art depicts a traditional scene of clams being grilled on a round mesh grate over an open fire. A vertical orange banner reads **Mie Meibutsu** (三重名物), identifying the clams as a famous local specialty. The blue sky and soft clouds capture the refreshing seaside atmosphere of the **Nagashima** coast."
       ],
       "image": "images/clam.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "kumamoto-castle-1",
       "title": "Lazing around at Kumamoto Castle",
       "prefecture": "kumamoto",
       "region": "kyushu",
       "item": "structure",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Kumamoto Castle** (熊本城), one of Japan’s most iconic historic landmarks, located in **Kumamoto** prefecture on the island of Kyūshū. Originally completed in 1607, the castle is renowned for its impressive stone walls, distinctive architecture and important role in the region’s history.",
-  "The design features **Rilakkuma** standing cheerfully in front of a miniature black-and-white **Kumamoto Castle**, with one paw raised. **Kiiroitori** accompanies him above, surrounded by small white fans decorated with red circles, adding a festive Japanese touch to the design.",
-  "The background art depicts **Kumamoto Castle** rising against a bright blue sky with soft white clouds and green foliage along its base. A traditional sign bearing the castle’s name, **Kumamoto-jō** (熊本城), reinforces the regional theme of this Kumamoto-exclusive piece."
+        "This piece celebrates **Kumamoto Castle** (熊本城), one of Japan’s most iconic historic landmarks, located in **Kumamoto** prefecture on the island of Kyūshū. Originally completed in 1607, the castle is renowned for its impressive stone walls, distinctive architecture and important role in the region’s history.",
+        "The design features **Rilakkuma** standing cheerfully in front of a miniature black-and-white **Kumamoto Castle**, with one paw raised. **Kiiroitori** accompanies him above, surrounded by small white fans decorated with red circles, adding a festive Japanese touch to the design.",
+        "The background art depicts **Kumamoto Castle** rising against a bright blue sky with soft white clouds and green foliage along its base. A traditional sign bearing the castle’s name, **Kumamoto-jō** (熊本城), reinforces the regional theme of this Kumamoto-exclusive piece."
       ],
       "image": "images/kumamoto-castle.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "date-masamune-1",
       "title": "Lazing around as Date Masamune",
       "prefecture": "miyagi",
       "region": "tohoku",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Date Masamune** (伊達政宗), the powerful feudal lord who founded the city of **Sendai** and became one of the most iconic historical figures of **Miyagi** prefecture. Known as the One-Eyed Dragon of Ōshū, he is especially remembered for his distinctive helmet adorned with a golden crescent-shaped crest.",
-  "The design features **Rilakkuma** wearing a dark purple samurai helmet topped with a golden crescent-shaped ornament inspired by **Date Masamune**’s iconic headwear. **Kiiroitori** accompanies him without any clothing or accessories, while a vertical banner bearing the name **Aoba Castle** (青葉城) appears beside the figures.",
-  "The background art depicts **Aoba Castle** (青葉城), also known as Sendai Castle, with its historic architecture set against a bright blue sky. The scenery and castle signage reinforce the connection to **Sendai** and its samurai heritage."
+        "This piece celebrates **Date Masamune** (伊達政宗), the powerful feudal lord who founded the city of **Sendai** and became one of the most iconic historical figures of **Miyagi** prefecture. Known as the One-Eyed Dragon of Ōshū, he is especially remembered for his distinctive helmet adorned with a golden crescent-shaped crest.",
+        "The design features **Rilakkuma** wearing a dark purple samurai helmet topped with a golden crescent-shaped ornament inspired by **Date Masamune**’s iconic headwear. **Kiiroitori** accompanies him without any clothing or accessories, while a vertical banner bearing the name **Aoba Castle** (青葉城) appears beside the figures.",
+        "The background art depicts **Aoba Castle** (青葉城), also known as Sendai Castle, with its historic architecture set against a bright blue sky. The scenery and castle signage reinforce the connection to **Sendai** and its samurai heritage."
       ],
       "image": "images/date-masamune.png",
       "image_source": "",
       "image_credit": ""
-    }
-      ,
+    },
     {
       "id": "gojunoto-1",
       "title": "Lazing around at Gojūnotō",
       "prefecture": "kyoto",
       "region": "kansai",
       "item": "structure",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece features the **Gojūnotō** (五重塔), or five-storied pagoda, an iconic architectural element of **Kyoto**’s spiritual landscape. It evokes the city’s celebrated pagodas, such as the towering wooden pagoda of **Tōji Temple** and the famous **Yasaka Pagoda** in the Higashiyama district, both representing the timeless elegance of Japan’s ancient capital.",
-  "The design showcases **Rilakkuma** dressed as a tourist, with a camera hanging around his neck, standing beside a miniature dark-wood **Gojūnotō**. **Kiiroitori** accompanies him, holding a traditional wooden sign bearing the name **Kyoto** (京都).",
-  "The background art captures a classic Kyoto scene, with a five-storied pagoda surrounded by blooming cherry blossoms (**Sakura**) and traditional temple architecture. The scenery reflects the serene, historic atmosphere of the ancient capital."
+        "This piece features the **Gojūnotō** (五重塔), or five-storied pagoda, an iconic architectural element of **Kyoto**’s spiritual landscape. It evokes the city’s celebrated pagodas, such as the towering wooden pagoda of **Tōji Temple** and the famous **Yasaka Pagoda** in the Higashiyama district, both representing the timeless elegance of Japan’s ancient capital.",
+        "The design showcases **Rilakkuma** dressed as a tourist, with a camera hanging around his neck, standing beside a miniature dark-wood **Gojūnotō**. **Kiiroitori** accompanies him, holding a traditional wooden sign bearing the name **Kyoto** (京都).",
+        "The background art captures a classic Kyoto scene, with a five-storied pagoda surrounded by blooming cherry blossoms (**Sakura**) and traditional temple architecture. The scenery reflects the serene, historic atmosphere of the ancient capital."
       ],
       "image": "images/gojunoto.png",
       "image_source": "",
       "image_credit": ""
-    }
-       ,
+    },
     {
       "id": "koinobori-1",
       "title": "Lazing around with koinobori",
       "prefecture": "saitama",
       "region": "kanto",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Koinobori** (鯉のぼり), traditional carp-shaped windsocks flown across Japan to celebrate **Children’s Day** on May 5. Inspired by the carp’s symbolism of strength, perseverance and success, these colourful decorations express wishes for children to grow up healthy and strong. The tradition is especially associated with the festive atmosphere of spring throughout **Saitama** prefecture.",
-  "The design features **Rilakkuma** lounging comfortably on a large black **Koinobori**, decorated with white scales and a red eye. **Kiiroitori** accompanies him beside a smaller red-and-white carp streamer, adding to the playful celebration.",
-  "The background art depicts several colourful **Koinobori** flying against a bright blue sky, with green hills beneath them. Their different colours and sizes recreate the cheerful sight of carp streamers waving in the spring breeze, capturing the festive spirit of **Children’s Day** in Japan."
+        "This piece celebrates **Koinobori** (鯉のぼり), traditional carp-shaped windsocks flown across Japan to celebrate **Children’s Day** on May 5. Inspired by the carp’s symbolism of strength, perseverance and success, these colourful decorations express wishes for children to grow up healthy and strong. The tradition is especially associated with the festive atmosphere of spring throughout **Saitama** prefecture.",
+        "The design features **Rilakkuma** lounging comfortably on a large black **Koinobori**, decorated with white scales and a red eye. **Kiiroitori** accompanies him beside a smaller red-and-white carp streamer, adding to the playful celebration.",
+        "The background art depicts several colourful **Koinobori** flying against a bright blue sky, with green hills beneath them. Their different colours and sizes recreate the cheerful sight of carp streamers waving in the spring breeze, capturing the festive spirit of **Children’s Day** in Japan."
       ],
       "image": "images/koinobori.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "izumo-1",
       "title": "Lazing around in Izumo",
       "prefecture": "shimane",
       "region": "chugoku",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Izumo** (出雲), a region in **Shimane** prefecture famous for its deep connections to Japanese mythology and its traditions surrounding **Enmusubi** (縁結び), the divine bonds that connect people. The area is especially associated with **Izumo Taisha**, one of Japan’s most important Shinto shrines, renowned for prayers for love, relationships and good fortune.",
-  "The design features **Rilakkuma** wearing a traditional dark cap and sitting on a decorative straw bundle. He holds a small red cup marked with the character **Fuku** (福), meaning good fortune. **Kiiroitori** accompanies him, holding a yellow sign bearing the characters **Enmusubi** (縁結び), referring to the blessings of forming meaningful connections.",
-  "The background art depicts a traditional Japanese setting with green trees and shrine-like scenery. It includes a pink banner reading **Ren'ai Jōju Kigan** (恋愛成就祈願), a prayer for the fulfilment of romantic love, and an orange banner referring to good fortune. These details reflect Izumo’s longstanding association with matchmaking, relationships and spiritual blessings."
+        "This piece celebrates **Izumo** (出雲), a region in **Shimane** prefecture famous for its deep connections to Japanese mythology and its traditions surrounding **Enmusubi** (縁結び), the divine bonds that connect people. The area is especially associated with **Izumo Taisha**, one of Japan’s most important Shinto shrines, renowned for prayers for love, relationships and good fortune.",
+        "The design features **Rilakkuma** wearing a traditional dark cap and sitting on a decorative straw bundle. He holds a small red cup marked with the character **Fuku** (福), meaning good fortune. **Kiiroitori** accompanies him, holding a yellow sign bearing the characters **Enmusubi** (縁結び), referring to the blessings of forming meaningful connections.",
+        "The background art depicts a traditional Japanese setting with green trees and shrine-like scenery. It includes a pink banner reading **Ren'ai Jōju Kigan** (恋愛成就祈願), a prayer for the fulfilment of romantic love, and an orange banner referring to good fortune. These details reflect Izumo’s longstanding association with matchmaking, relationships and spiritual blessings."
       ],
       "image": "images/izumo.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "inaba-white-rabbit-1",
       "title": "Lazing around with Inaba's white rabbit",
       "prefecture": "tottori",
       "region": "chugoku",
       "item": "animal",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Inaba no Shirousagi** (因幡の白兎), or the White Rabbit of Inaba, a famous Japanese myth associated with **Tottori** prefecture. The legend tells the story of a white rabbit who encounters the god Ōkuninushi after attempting to cross the sea with the help of a group of sharks. The tale is closely connected to the region’s folklore and the traditions of **San’in**.",
-  "The design features **Rilakkuma** sitting beside a small white rabbit resting in a green basket. He wears a green pendant around his neck, while **Kiiroitori** accompanies them, perched on a small carrot-shaped decoration.",
-  "The background art depicts a coastal landscape with blue ocean waters, a bright sky and green hills. A white sea creature can be seen swimming in the water, evoking the seaside setting of the White Rabbit of Inaba legend."
+        "This piece celebrates **Inaba no Shirousagi** (因幡の白兎), or the White Rabbit of Inaba, a famous Japanese myth associated with **Tottori** prefecture. The legend tells the story of a white rabbit who encounters the god Ōkuninushi after attempting to cross the sea with the help of a group of sharks. The tale is closely connected to the region’s folklore and the traditions of **San’in**.",
+        "The design features **Rilakkuma** sitting beside a small white rabbit resting in a green basket. He wears a green pendant around his neck, while **Kiiroitori** accompanies them, perched on a small carrot-shaped decoration.",
+        "The background art depicts a coastal landscape with blue ocean waters, a bright sky and green hills. A white sea creature can be seen swimming in the water, evoking the seaside setting of the White Rabbit of Inaba legend."
       ],
       "image": "images/inaba-white-rabbit.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "daruma-2",
       "title": "Lazing around with daruma #2",
       "prefecture": "gunma",
       "region": "kanto",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Daruma** (だるま), traditional Japanese good-luck dolls symbolising perseverance, determination and the fulfilment of wishes. It highlights the **Takasaki Daruma**, a famous regional variety from **Gunma** prefecture, recognised for its distinctive rounded shape and expressive facial features. Takasaki is one of Japan’s most important centres of Daruma production.",
-  "The design features **Rilakkuma** holding a traditional **calligraphy brush** with a black ink tip in one paw and a small red **Daruma** doll in the other. **Kiiroitori** accompanies him, holding two small yellow decorative fans, one in each wing. The scene evokes the traditional practice of making wishes and decorating Daruma dolls.",
-  "The background art depicts rows of traditional red **Daruma** dolls arranged against a striped backdrop. Their bold expressions and rounded shapes capture the cheerful appearance of these lucky charms and reflect **Gunma** prefecture’s long-standing Daruma-making tradition."
+        "This piece celebrates **Daruma** (だるま), traditional Japanese good-luck dolls symbolising perseverance, determination and the fulfilment of wishes. It highlights the **Takasaki Daruma**, a famous regional variety from **Gunma** prefecture, recognised for its distinctive rounded shape and expressive facial features. Takasaki is one of Japan’s most important centres of Daruma production.",
+        "The design features **Rilakkuma** holding a traditional **calligraphy brush** with a black ink tip in one paw and a small red **Daruma** doll in the other. **Kiiroitori** accompanies him, holding two small yellow decorative fans, one in each wing. The scene evokes the traditional practice of making wishes and decorating Daruma dolls.",
+        "The background art depicts rows of traditional red **Daruma** dolls arranged against a striped backdrop. Their bold expressions and rounded shapes capture the cheerful appearance of these lucky charms and reflect **Gunma** prefecture’s long-standing Daruma-making tradition."
       ],
       "image": "images/daruma-2.png",
       "image_source": "",
       "image_credit": ""
-    }
-     ,
+    },
     {
       "id": "rice-bales-2",
       "title": "Lazing around with rice bales #2",
       "prefecture": "niigata",
       "region": "chubu",
       "item": "item",
-      "type": ["blister pack"],
+      "type": [
+        "blister pack"
+      ],
       "description": [
-"This piece celebrates **Kome-dawara** (米俵), traditional Japanese rice straw bales used to store and transport rice. It highlights the agricultural heritage of **Niigata** prefecture, one of Japan’s most famous rice-producing regions, particularly renowned for the quality of its rice and fertile farmland.",
-  "The design features **Rilakkuma** sitting comfortably on a stack of golden **rice bales**, recreating the traditional appearance of bundled rice straw. **Kiiroitori** accompanies him, perched on top of a small white woven basket.",
-  "The background art depicts a picturesque rural landscape filled with golden rice fields beneath a warm sunset-coloured sky. The scenery evokes the traditional rice-growing countryside of **Niigata**, celebrating the region’s strong agricultural identity and its long-standing connection to rice cultivation."
+        "This piece celebrates **Kome-dawara** (米俵), traditional Japanese rice straw bales used to store and transport rice. It highlights the agricultural heritage of **Niigata** prefecture, one of Japan’s most famous rice-producing regions, particularly renowned for the quality of its rice and fertile farmland.",
+        "The design features **Rilakkuma** sitting comfortably on a stack of golden **rice bales**, recreating the traditional appearance of bundled rice straw. **Kiiroitori** accompanies him, perched on top of a small white woven basket.",
+        "The background art depicts a picturesque rural landscape filled with golden rice fields beneath a warm sunset-coloured sky. The scenery evokes the traditional rice-growing countryside of **Niigata**, celebrating the region’s strong agricultural identity and its long-standing connection to rice cultivation."
       ],
       "image": "images/rice-bales-2.png",
+      "image_source": "",
+      "image_credit": ""
+    },
+    {
+      "id": "kiritanpo-1",
+      "title": "Lazing around with kiritanpo",
+      "prefecture": "akita",
+      "region": "tohoku",
+      "item": "food",
+      "type": [
+        "blister pack",
+        "carded strap"
+      ],
+      "description": [
+        "This piece celebrates **Kiritanpo** (きりたんぽ), **Akita** prefecture’s signature rice dish, made by mashing freshly cooked rice, shaping it around cedar skewers and toasting it over an open hearth. It is a beloved regional specialty, particularly enjoyed during the colder months.",
+        "The design features **Rilakkuma** hugging a giant **Kiritanpo**, highlighting one of the region’s most recognisable traditional foods. It is commonly served in a savoury soy-based hot pot known as **Kiritanpo Nabe**, or coated in sweet miso paste and grilled as **Misotanpo**.",
+        "The background illustration depicts the traditional preparation of **Kiritanpo**, with rice cylinders roasting upright around an open fire. This scene evokes the warmth of **Northern Japan’s** winter food culture and celebrates **Akita**’s culinary heritage."
+      ],
+      "image": "images/kiritanpo.png",
       "image_source": "",
       "image_credit": ""
     }
