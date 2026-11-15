@@ -624,6 +624,42 @@
       "image": "images/hamanasu.png",
       "image_source": "",
       "image_credit": ""
+    },
+    {
+      "id": "shirokuma-1",
+      "title": "Lazing around with shirokuma",
+      "prefecture": "kagoshima",
+      "region": "kyushu",
+      "item": "food",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Shirokuma** (白熊), a famous shaved ice dessert originating in **Kagoshima** prefecture. Traditionally covered with sweet condensed milk and decorated with colourful fruits, sweet beans and other toppings, it is named after the Japanese word for polar bear, which its appearance is said to resemble. It is one of Kagoshima’s most beloved summer treats.",
+        "The design features **Rilakkuma** holding a small blue bowl of **Shirokuma** shaved ice, decorated with colourful toppings and a tiny bear-shaped face. **Kiiroitori** accompanies him, resting on another miniature serving of the dessert, recreating the playful presentation of this regional specialty.",
+        "The background art depicts a traditional shaved ice shop setting, with a large banner displaying the character **Kōri** (氷), meaning ice, above blue waves, alongside a shaved ice machine and an illustration of a blue bowl of **Shirokuma**. These details evoke the refreshing atmosphere of Kagoshima’s summer dessert culture and celebrate one of the prefecture’s most recognisable culinary specialties."
+      ],
+      "image": "images/shirokuma.png",
+      "image_source": "",
+      "image_credit": ""
+    },
+    {
+      "id": "yumomi-1",
+      "title": "Lazing around with yumomi",
+      "prefecture": "gunma",
+      "region": "kanto",
+      "item": "item",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Yumomi** (湯もみ), a traditional practice from **Kusatsu Onsen** in **Gunma** prefecture, where large wooden boards are used to stir and cool the naturally hot spring water without diluting its mineral content. The technique has become one of Kusatsu’s most recognisable cultural traditions and a popular attraction for visitors.",
+        "The design features **Rilakkuma** relaxing in a small wooden hot spring bath, wearing a white towel on his head and holding a wooden board marked with **Kusatsu** (くさつ). **Kiiroitori** accompanies him, holding a yellow wooden paddle bearing the word **Yumomi** (ゆもみ), referencing the traditional hot spring-cooling technique.",
+        "The background art depicts a traditional **Kusatsu Onsen** setting, with a large sign identifying the area’s famous local specialty, **Kusatsu Meibutsu** (草津名物). The warm wooden tones and soft scenery evoke the atmosphere of a Japanese hot spring resort, celebrating the bathing culture and heritage of **Gunma** prefecture."
+      ],
+      "image": "images/yumomi.png",
+      "image_source": "",
+      "image_credit": ""
     }
   ]
 }
