@@ -49,5 +49,22 @@
     "kagoshima",
     "okinawa"
   ],
-  "items": []
+  "items": [
+    {
+      "id": "hokkaido-ramen-001",
+      "title": "lazing around with ramen",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+        "This piece celebrates Hokkaido ramen (北海道ラーメン), a world-famous culinary staple from Japan's northernmost prefecture. It highlights the region's rich noodle culture, specifically its hearty bowls of ramen that are celebrated for their diverse local flavors and high-quality ingredients sourced from the island's vast landscape.",
+        "The design features Rilakkuma sitting comfortably while holding a small, detailed bowl of ramen. The bowl is filled with noodles and topped with classic ingredients, looking like a warm and savory local meal.",
+        "The background art depicts a large, steaming bowl of ramen served with chopsticks against a warm orange backdrop, beautifully capturing the comforting and savory soul of this regional dish."
+      ],
+      "image": "",
+      "image_source": "",
+      "image_credit": ""
+    }
+  ]
 }
