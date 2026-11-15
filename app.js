@@ -146,6 +146,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  function placeholder(text) {
+    const wrap = makeElement("span", "item-image-placeholder");
+    wrap.innerHTML = '<svg viewBox="0 0 120 120" aria-hidden="true"><use href="#bear"/></svg>';
+    wrap.appendChild(makeElement("em", "", text));
+    return wrap;
+  }
+
   // CREATE ITEM CARD
 
   function createCard(item) {
@@ -164,14 +171,14 @@ document.addEventListener("DOMContentLoaded", () => {
       image.addEventListener("error", () => {
         image.remove();
         imageContainer.appendChild(
-          makeElement("span", "item-image-placeholder", "Image unavailable")
+          placeholder("Image unavailable")
         );
       });
 
       imageContainer.appendChild(image);
     } else {
       imageContainer.appendChild(
-        makeElement("span", "item-image-placeholder", "Image coming soon")
+        placeholder("Image coming soon")
       );
     }
 
