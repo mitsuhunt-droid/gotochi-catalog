@@ -1,1 +1,110 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="An archive of Rilakkuma Gotochi charms from Japan.">
+  <title>Gotochi Archive — Rilakkuma Collection</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+
+<body>
+  <header class="site-header">
+    <a class="brand" href="./">
+      <span class="brand-mark">g.</span>
+      <span class="brand-name">gotochi archive</span>
+    </a>
+    <span class="header-note">a rilakkuma collection</span>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p class="eyebrow">JAPAN · REGIONAL COLLECTION</p>
+      <h1>Little pieces of Japan.</h1>
+      <p class="intro-text">
+        An archive of Rilakkuma Gotochi charms, celebrating the
+        places, traditions and local specialties of Japan.
+      </p>
+    </section>
+
+    <section class="catalogue" aria-label="Gotochi catalogue">
+      <div class="catalogue-heading">
+        <div>
+          <p class="eyebrow">THE COLLECTION</p>
+          <h2>Explore the archive</h2>
+        </div>
+        <span id="result-count" class="result-count">Loading collection...</span>
+      </div>
+
+      <div class="search-wrap">
+        <label class="visually-hidden" for="search">Search the collection</label>
+        <input
+          id="search"
+          type="search"
+          placeholder="Search by name, place or keyword..."
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="filters">
+        <div class="filter">
+          <label for="prefecture-filter">Prefecture</label>
+          <select id="prefecture-filter">
+            <option value="">All prefectures</option>
+          </select>
+        </div>
+
+        <div class="filter">
+          <label for="item-filter">Item</label>
+          <select id="item-filter">
+            <option value="">All items</option>
+            <option value="scenery">Scenery</option>
+            <option value="structure">Structure</option>
+            <option value="food">Food</option>
+            <option value="animal">Animal</option>
+            <option value="item">Item</option>
+          </select>
+        </div>
+
+        <div class="filter">
+          <label for="type-filter">Type</label>
+          <select id="type-filter">
+            <option value="">All types</option>
+            <option value="blister pack">Blister pack</option>
+            <option value="lobster claw">Lobster claw</option>
+            <option value="carded strap">Carded strap</option>
+          </select>
+        </div>
+
+        <button id="clear-filters" class="clear-button" type="button">
+          Clear filters
+        </button>
+      </div>
+
+      <div id="collection-grid" class="collection-grid">
+        <p class="loading-message">Loading the collection...</p>
+      </div>
+
+      <div id="empty-state" class="empty-state" hidden>
+        <p>No gotochi found.</p>
+        <span>Try changing your search or filters.</span>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="item-dialog" class="item-dialog">
+    <button class="dialog-close" id="dialog-close" type="button" aria-label="Close">
+      ×
+    </button>
+    <div id="dialog-content"></div>
+  </dialog>
+
+  <footer class="site-footer">
+    <p>gotochi archive</p>
+    <span>an ongoing collection of little pieces of Japan</span>
+  </footer>
+</body>
+</html>
