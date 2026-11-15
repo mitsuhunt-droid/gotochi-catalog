@@ -401,7 +401,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const data = await response.json();
 
-      allItems = Array.isArray(data.items) ? data.items : [];
+      // newest first: the last item in items.json is shown at the top
+      allItems = Array.isArray(data.items) ? [...data.items].reverse() : [];
 
       populatePrefectures(
         Array.isArray(data.prefectures) ? data.prefectures : Object.keys(prefectureNames)
