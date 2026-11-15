@@ -371,5 +371,22 @@
       "image_source": "",
       "image_credit": ""
     }
+      ,
+    {
+      "id": "spiny-lobster-1",
+      "title": "Lazing around with spiny lobster",
+      "prefecture": "mie",
+      "region": "kansai",
+      "item": "animal",
+      "type": ["blister pack"],
+      "description": [
+"This piece features **Ise-ebi** (伊勢海老), or Japanese spiny lobster, a luxury seafood delicacy named after the **Ise** region in **Mie** prefecture. Known for its sweet meat and brilliant red shell, it is often served at special celebrations and is considered a symbol of longevity due to its distinctive whisker-like antennae.",
+  "The design features **Rilakkuma** reclining peacefully on the back of a large, vibrant red **Ise-ebi**, using the lobster’s shell as a comfortable seat. **Kiiroitori** is positioned beside them, appearing to hitch a ride along with them.",
+  "The background art depicts the famous **Meoto Iwa** (夫婦岩), or Married Couple Rocks, joined by a sacred rope in the distance. The scene is set against the deep blue waters and splashing waves of the **Ise-Shima** coastline."
+      ],
+      "image": "images/spiny-lobster.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
