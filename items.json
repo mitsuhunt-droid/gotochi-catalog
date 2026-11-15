@@ -732,6 +732,24 @@
       "image": "images/blueberry-1.png",
       "image_source": "",
       "image_credit": ""
+    },
+    {
+      "id": "benkei-1",
+      "title": "Lazing around with Benkei",
+      "prefecture": "iwate",
+      "region": "tohoku",
+      "item": "item",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Benkei** (弁慶), the legendary warrior monk traditionally associated with **Hiraizumi**, in **Iwate** prefecture. Best known as the loyal companion of the samurai **Minamoto no Yoshitsune**, Benkei became a celebrated figure in Japanese folklore, remembered for his strength, bravery and devotion.",
+        "The design features **Rilakkuma** dressed as **Benkei**, wearing a traditional outfit with a red prayer-bead necklace and a green pleated garment. He holds a long staff with a decorative golden ring on top, inspired by the weapons associated with warrior monks. **Kiiroitori** accompanies him, holding a red sign bearing the name **Benkei** (弁慶).",
+        "The background art depicts a traditional Japanese landscape with temple-like architecture and greenery, with a purple banner reading **Hiraizumi** (平泉), evoking the historic atmosphere of the town. The scenery reinforces the connection to the region’s cultural heritage and the legends surrounding **Benkei** and **Yoshitsune**."
+      ],
+      "image": "images/benkei.png",
+      "image_source": "",
+      "image_credit": ""
     }
   ]
 }
