@@ -340,7 +340,7 @@
      ,
     {
       "id": "dairy-cow-1",
-      "title": "Lazing around dairy cow",
+      "title": "Lazing around with dairy cow",
       "prefecture": "hokkaido",
       "region": "hokkaido",
       "item": "animal",
@@ -351,6 +351,23 @@
   "The background art illustrates the scenic rolling hills and green pastures of the **Tokachi** or **Kushiro** regions, complete with a red-roofed silo under a clear blue sky. The scenery captures the peaceful atmosphere of rural farm life in northern Japan."
       ],
       "image": "images/dairy-cow.png",
+      "image_source": "",
+      "image_credit": ""
+    }
+      ,
+    {
+      "id": "spiny-lobster-2",
+      "title": "Lazing around with spiny lobster #2",
+      "prefecture": "mie",
+      "region": "kansai",
+      "item": "animal",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates the **Ise-ebi** (伊勢海老), or Japanese spiny lobster, a prized seafood delicacy associated with the **Ise** region in **Mie** prefecture. Known for its sweet meat and brilliant red shell, it is often served at special celebrations and is considered a symbol of longevity due to its distinctive long antennae.",
+  "The design features **Rilakkuma** wearing a traditional white **Hachimaki** (headband) while hugging a large, bright red **Ise-ebi**. **Kiiroitori** accompanies him, carrying a small wooden bucket reminiscent of those used in traditional seafood markets.",
+  "The background art illustrates the rugged coastline of the **Shima Peninsula** and the famous **Meoto Iwa** (夫婦岩), or Married Couple Rocks, rising from the ocean. The scenery reflects the rich maritime traditions and spiritual heritage of **Mie** prefecture."
+      ],
+      "image": "images/spiny-lobster-2.png",
       "image_source": "",
       "image_credit": ""
     }
