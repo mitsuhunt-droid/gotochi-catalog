@@ -660,6 +660,78 @@
       "image": "images/yumomi.png",
       "image_source": "",
       "image_credit": ""
+    },
+    {
+      "id": "koropokkuru-1",
+      "title": "Lazing around with koropokkuru",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "item",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Koropokkuru** (コロポックル), tiny legendary beings from the folklore of the **Ainu**, the Indigenous people of northern Japan. Often described as small people who live among nature, they are closely associated with the forests and landscapes of **Hokkaidō**.",
+        "The design features **Rilakkuma** dressed in a traditional outfit inspired by Ainu clothing, with a patterned blue-and-white vest and a headband. A large green leaf appears behind him. **Kiiroitori** accompanies him near the top of the charm, holding a sprig of white bell-shaped flowers and adding to the folkloric theme.",
+        "The background art depicts a lush green landscape with large, stylised leaves and delicate white bell-shaped flowers, evoking the natural environment associated with **Koropokkuru** legends. The scenery reflects the connection between these mythical beings and the forests of **Hokkaidō**."
+      ],
+      "image": "images/koropokkuru.png",
+      "image_source": "",
+      "image_credit": ""
+    },
+    {
+      "id": "dekopon-1",
+      "title": "Lazing around with dekopon",
+      "prefecture": "kumamoto",
+      "region": "kyushu",
+      "item": "food",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Dekopon** (デコポン), a popular Japanese citrus fruit known for its sweet flavour, easy-to-peel skin and distinctive protruding top. **Kumamoto** prefecture is particularly famous for its production of this fruit, which has become one of the region’s best-known agricultural specialties.",
+        "The design features **Rilakkuma** hugging a large orange **Dekopon**, complete with its characteristic leafy stem. **Kiiroitori** accompanies him, resting on another miniature fruit. A small box in front reads **Kumamoto Dekopon** (熊本デコポン), identifying the regional specialty.",
+        "The background art depicts a bright agricultural landscape filled with orange citrus fruits and green foliage beneath a blue sky with soft clouds. The scenery celebrates **Kumamoto**’s citrus-growing tradition and its reputation for producing high-quality **Dekopon**."
+      ],
+      "image": "images/dekopon.png",
+      "image_source": "",
+      "image_credit": ""
+    },
+    {
+      "id": "momotaro-2",
+      "title": "Lazing around with momotarō 2",
+      "prefecture": "okayama",
+      "region": "chugoku",
+      "item": "item",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Momotarō** (桃太郎), or the Peach Boy, one of Japan’s most beloved folk heroes. According to the traditional tale, a boy is born from a giant peach and grows up to defeat a group of ogres with the help of a dog, a monkey and a pheasant. The legend is especially associated with **Okayama** prefecture, where Momotarō is an important symbol of local folklore.",
+        "The design features **Rilakkuma** wearing a white headband and sitting in a relaxed pose in front of a large pink **peach**, inspired by **Momotarō**’s traditional appearance. He carries a small banner reading **Nihon Ichi** (日本一), meaning “Japan’s Number One”, marked with a peach. **Kiiroitori** accompanies him, perched on top.",
+        "The background art depicts a traditional Japanese interior, with an iron kettle hanging over a hearth from a fish-shaped hook, and a window opening onto green hills and a blue sky. The **Nihon Ichi** banner also appears in the illustration at the bottom of the card. These details reinforce the connection to **Momotarō**, whose legendary story is deeply rooted in **Okayama**’s cultural identity."
+      ],
+      "image": "images/momotaro-2.png",
+      "image_source": "",
+      "image_credit": ""
+    },
+    {
+      "id": "blueberry-1",
+      "title": "Lazing around with blueberries",
+      "prefecture": "nagano",
+      "region": "chubu",
+      "item": "food",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Blueberries**, a popular fruit cultivated in **Nagano** prefecture, where the cool climate and mountainous landscape provide favourable conditions for growing them. The region is known for its agricultural produce, including fresh berries enjoyed during the summer season.",
+        "The design features **Rilakkuma** hugging a cluster of large, deep purple **Blueberries**, with their characteristic round shape and small star-shaped crowns. **Kiiroitori** accompanies him beside another blueberry, completing the playful fruit-themed design. A small green leaf beneath the berries is marked **Shinshū** (信州), the historical name of Nagano.",
+        "The background art depicts a scenic countryside landscape with blueberry branches and clusters of ripe fruit beneath a bright blue sky. Green hills and a distant snow-capped mountain evoke the natural surroundings of **Nagano**, celebrating the region’s agricultural character."
+      ],
+      "image": "images/blueberry-1.png",
+      "image_source": "",
+      "image_credit": ""
     }
   ]
 }
