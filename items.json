@@ -57,9 +57,9 @@
       "item": "animal",
       "type": ["blister pack"],
       "description": [
-        "This piece celebrates the **Tokyo Tower** (東京タワー), the iconic communications and observation tower located in the **Minato** district of **Tokyo**. Inspired by the Eiffel Tower and painted in its distinctive **international orange and white** colors to comply with aviation safety regulations, it has become a symbol of Japan’s post-war rebirth and one of the most beloved landmarks of the capital’s skyline.",
-  "The design features **Rilakkuma** playfully hugging the upper observation deck of a vibrant red and white **Tokyo Tower**. **Kiiroitori** is seen flying alongside the tower’s tip, holding a small red flag displaying the word “***Tokyo***” (東京).",
-  "The background art captures a beautiful **nighttime view of Tokyo Tower**, illuminated against a deep blue sky scattered with **bright yellow stars**. The scene evokes the romantic atmosphere of the city after dark, highlighting the tower as one of Tokyo’s most recognizable landmarks."
+        "This piece celebrates the **clione** (クリオネ), a fascinating marine creature known as the “**sea angel**” that inhabits the freezing waters of **Hokkaidō**. It highlights these tiny, translucent mollusks which have become a symbol of the northern region’s **marine biodiversity**, particularly famous for their graceful swimming in the **Sea of Okhotsk**.",
+        "The design features **Rilakkuma** playfully hugging a large, translucent **clione**. The clione is crafted with a **clear, jelly-like finish** and features the characteristic **red internal organs** that give these creatures their “angelic” appearance.",
+        "The background art on the card depicts a serene **underwater scene** of Hokkaidō’s icy waters, with several clione silhouettes floating gracefully against a **gradient blue backdrop**. The illustration also includes **green sea plants** at the bottom, emphasizing the natural habitat of these unique creatures."
       ],
       "image": "images/clione.png",
       "image_source": "",
@@ -74,9 +74,9 @@
       "item": "structure",
       "type": ["blister pack"],
       "description": [
-        "Primer párrafo con **negritas** donde quieras.",
-        "Segundo párrafo.",
-        "Tercer párrafo."
+      "This piece celebrates the **Tokyo Tower** (東京タワー), the iconic communications and observation tower located in the **Minato** district of **Tokyo**. Inspired by the Eiffel Tower and painted in its distinctive **international orange and white** colors to comply with aviation safety regulations, it has become a symbol of Japan’s post-war rebirth and one of the most beloved landmarks of the capital’s skyline.",
+  "The design features **Rilakkuma** playfully hugging the upper observation deck of a vibrant red and white **Tokyo Tower**. **Kiiroitori** is seen flying alongside the tower’s tip, holding a small red flag displaying the word “***Tokyo***” (東京).",
+  "The background art captures a beautiful **nighttime view of Tokyo Tower**, illuminated against a deep blue sky scattered with **bright yellow stars**. The scene evokes the romantic atmosphere of the city after dark, highlighting the tower as one of Tokyo’s most recognizable landmarks."
       ],
       "image": "images/tokyo-tower-2.png",
       "image_source": "",
