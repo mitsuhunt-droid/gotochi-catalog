@@ -439,5 +439,22 @@
       "image_source": "",
       "image_credit": ""
     }
+      ,
+    {
+      "id": "gojunoto-1",
+      "title": "Lazing around at Gojūnotō",
+      "prefecture": "kyoto",
+      "region": "kansai",
+      "item": "structure",
+      "type": ["blister pack"],
+      "description": [
+"This piece features the **Gojūnotō** (五重塔), or five-storied pagoda, an iconic architectural element of **Kyoto**’s spiritual landscape. It evokes the city’s celebrated pagodas, such as the towering wooden pagoda of **Tōji Temple** and the famous **Yasaka Pagoda** in the Higashiyama district, both representing the timeless elegance of Japan’s ancient capital.",
+  "The design showcases **Rilakkuma** dressed as a tourist, with a camera hanging around his neck, standing beside a miniature dark-wood **Gojūnotō**. **Kiiroitori** accompanies him, holding a traditional wooden sign bearing the name **Kyoto** (京都).",
+  "The background art captures a classic Kyoto scene, with a five-storied pagoda surrounded by blooming cherry blossoms (**Sakura**) and traditional temple architecture. The scenery reflects the serene, historic atmosphere of the ancient capital."
+      ],
+      "image": "images/gojunoto.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
