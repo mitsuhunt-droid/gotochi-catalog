@@ -405,5 +405,22 @@
       "image_source": "",
       "image_credit": ""
     }
+      ,
+    {
+      "id": "kumamoto-castle-1",
+      "title": "Lazing around at Kumamoto Castle",
+      "prefecture": "kumamoto",
+      "region": "kyushu",
+      "item": "structure",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Kumamoto Castle** (熊本城), one of Japan’s most iconic historic landmarks, located in **Kumamoto** prefecture on the island of Kyūshū. Originally completed in 1607, the castle is renowned for its impressive stone walls, distinctive architecture and important role in the region’s history.",
+  "The design features **Rilakkuma** standing cheerfully in front of a miniature black-and-white **Kumamoto Castle**, with one paw raised. **Kiiroitori** accompanies him above, surrounded by small white fans decorated with red circles, adding a festive Japanese touch to the design.",
+  "The background art depicts **Kumamoto Castle** rising against a bright blue sky with soft white clouds and green foliage along its base. A traditional sign bearing the castle’s name, **Kumamoto-jō** (熊本城), reinforces the regional theme of this Kumamoto-exclusive piece."
+      ],
+      "image": "images/kumamoto-castle.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
