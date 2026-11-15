@@ -99,5 +99,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "himeji-oden-1",
+      "title": "Lazing around with himeji oden",
+      "prefecture": "hyogo",
+      "region": "kansai",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+    "This piece celebrates **Himeji oden** (姫路おでん) from **Hyōgo** prefecture. Famous for its unique regional twist, Himeji oden is traditionally served with a distinctive side of **ginger soy sauce** (生姜醤油), which adds a warm, zesty kick to the simmering broth and tender ingredients.",
+  "The design features **Rilakkuma** holding a skewer of classic oden items marked with the clear inscription “***Himeji oden***” (姫路おでん), accompanied by **Kiiroitori** holding his own matching oden skewer.",
+  "The background art captures the iconic and majestic **Himeji Castle** (姫路城) rising gracefully under a bright sky. It is a charming tribute to the local culinary pride and historic heritage of **Hyōgo**’s castle town."
+      ],
+      "image": "images/himeji-oden.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
