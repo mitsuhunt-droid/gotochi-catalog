@@ -116,5 +116,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "trout-sushi-1",
+      "title": "Lazing around with trout sushi",
+      "prefecture": "toyama",
+      "region": "chubu",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+    "This piece celebrates **masu-no-sushi** (ますの寿し), a renowned regional delicacy from **toyama** prefecture. It highlights this famous type of pressed **trout sushi**, which is a staple of the region’s culinary identity and a popular choice for travelers due to its long history and unique presentation wrapped in bamboo leaves.",
+  "The design features **rilakkuma** holding a miniature circular wooden tub filled with **masu-no-sushi**, showcasing the vibrant color of the trout.",
+  "The background art depicts powerful **waves crashing against coastal rocks** under a bright blue sky, alongside a close-up illustration of the traditional sushi container. The scenery captures the fresh, maritime atmosphere and distinctive culinary heritage of this **coastal prefecture**."
+      ],
+      "image": "images/trout-sushi.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
