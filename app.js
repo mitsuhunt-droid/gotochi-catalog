@@ -254,8 +254,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // pills
     const pills = makeElement("div", "dialog-classification");
-    [regionNames[region], capitalize(item.item), ...(Array.isArray(item.type) ? item.type.map(capitalize) : [])]
-      .filter(Boolean).forEach(t => pills.appendChild(makeElement("span", "dialog-tag", t)));
+    const packTypes = ["blister pack", "carded strap"];
+    const tagList = [
+      [regionNames[region], "tag-region"],
+      [capitalize(item.item), "tag-item"],
+      ...(Array.isArray(item.type) ? item.type : []).map(t => [capitalize(t), packTypes.includes(t) ? "tag-pack" : "tag-other"])
+    ];
+    tagList.filter(t => t[0]).forEach(([label, cls]) =>
+      pills.appendChild(makeElement("span", "dialog-tag " + cls, label)));
     dialogContent.appendChild(pills);
 
     // about
