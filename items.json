@@ -235,5 +235,22 @@
       "image_source": "",
       "image_credit": ""
     }
+      ,
+    {
+      "id": "kinmedai-1",
+      "title": "Lazing around with kinmedai",
+      "prefecture": "shizuoka",
+      "region": "chubu",
+      "item": "food",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Kinmedai** (金目鯛), also known as splendid alfonsino, a prized deep-sea fish particularly associated with **Shizuoka** prefecture. Recognized for its vibrant reddish-pink scales and delicate, rich flavor, kinmedai is a popular local delicacy, especially in the coastal communities along the Izu Peninsula.",
+  "The design features **Rilakkuma** holding a small red **Kinmedai** fish in his paws, while another fish appears alongside **Kiiroitori**. The figures are arranged on a miniature display marked with the inscription “Shizuoka Kinmedai” (静岡 金目鯛), celebrating this regional seafood specialty.",
+  "The background art depicts an underwater-inspired scene with blue ocean waves and illustrations of reddish-orange fish swimming through the water. The packaging also displays the inscription **“Shizuoka Exclusive”** (静岡限定), making this piece a charming tribute to the coastal scenery and culinary heritage of **Shizuoka**."
+      ],
+      "image": "images/kinmedai.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
