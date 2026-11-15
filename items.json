@@ -750,6 +750,24 @@
       "image": "images/benkei.png",
       "image_source": "",
       "image_credit": ""
+    },
+    {
+      "id": "peach-2",
+      "title": "Lazing around with peaches #2",
+      "prefecture": "okayama",
+      "region": "chugoku",
+      "item": "food",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates **Peaches** (桃), one of **Okayama** prefecture’s most famous agricultural specialties. The region is particularly renowned for its high-quality **White Peaches**, prized for their delicate sweetness, soft texture and pale pinkish-white skin. Thanks to its favourable climate and long history of peach cultivation, Okayama is often associated with some of Japan’s finest peaches.",
+        "The design features **Rilakkuma** reclining comfortably while hugging a large pink **Peach** marked with the character **Okayama** (岡), with a small cluster of pink blossoms beside him. **Kiiroitori** accompanies him, positioned next to another miniature peach with a green leaf.",
+        "The background art depicts a colourful, soft pink scene of **peach blossoms**, green leaves and large ripe peaches, one of them cut open to show its pale flesh. The scenery celebrates the beauty of peach season and reflects **Okayama** prefecture’s longstanding reputation as one of Japan’s leading peach-producing regions."
+      ],
+      "image": "images/peach-2.png",
+      "image_source": "",
+      "image_credit": ""
     }
   ]
 }
