@@ -73,6 +73,24 @@
           "text": "Sold in gift shops and airports across Hokkaido."
         }
       ]
+    },
+    {
+      "id": "hokkaido-clione-001",
+      "title": "lazing around with clione",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "animal",
+      "type": [
+        "blister pack"
+      ],
+      "description": [
+        "This piece celebrates the **clione** (クリオネ), a fascinating marine creature known as the “**sea angel**” that inhabits the freezing waters of **Hokkaidō**. It highlights these tiny, translucent mollusks which have become a symbol of the northern region’s **marine biodiversity**, particularly famous for their graceful swimming in the **Sea of Okhotsk**.",
+        "The design features **Rilakkuma** playfully hugging a large, translucent **clione**. The clione is crafted with a **clear, jelly-like finish** and features the characteristic **red internal organs** that give these creatures their “angelic” appearance.",
+        "The background art on the card depicts a serene **underwater scene** of Hokkaidō’s icy waters, with several clione silhouettes floating gracefully against a **gradient blue backdrop**. The illustration also includes **green sea plants** at the bottom, emphasizing the natural habitat of these unique creatures."
+      ],
+      "image": "images/clione.png",
+      "image_source": "",
+      "image_credit": ""
     }
   ]
 }

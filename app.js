@@ -209,6 +209,16 @@ document.addEventListener("DOMContentLoaded", () => {
     return button;
   }
 
+  // **bold** support for descriptions (built with DOM nodes, never innerHTML)
+  function richText(text) {
+    const frag = document.createDocumentFragment();
+    String(text).split(/\*\*(.+?)\*\*/g).forEach((part, i) => {
+      if (!part) return;
+      frag.appendChild(i % 2 ? makeElement("strong", "", part) : document.createTextNode(part));
+    });
+    return frag;
+  }
+
   // CREATE ITEM DETAIL (Pawpedia-style modal)
 
   function infoCard(label, bodyNodes, status) {
@@ -252,7 +262,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const paragraphs = Array.isArray(item.description) ? item.description : (item.description ? [item.description] : []);
     if (paragraphs.length) {
       dialogContent.appendChild(makeElement("h3", "dialog-section", "About this piece"));
-      dialogContent.appendChild(infoCard("", paragraphs.map(p => makeElement("p", "info-text", p))));
+      dialogContent.appendChild(infoCard("", paragraphs.map(p => { const el = makeElement("p", "info-text"); el.appendChild(richText(p)); return el; })));
     }
 
     // where to find it (optional field: where: [{label, status, text, link?}])
@@ -316,7 +326,7 @@ document.addEventListener("DOMContentLoaded", () => {
         item.item,
         ...(item.type || []),
         ...(Array.isArray(item.description) ? item.description : [item.description || ""])
-      ].join(" "));
+      ].join(" ").replace(/\*\*/g, ""));
 
       const matchesSearch = !query || searchableContent.includes(query);
       const matchesPrefecture = !selectedPrefecture || item.prefecture === selectedPrefecture;

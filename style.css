@@ -56,7 +56,7 @@ select{padding:10px 14px;border:3px solid var(--border);border-radius:14px;backg
 .item-card:hover,.item-card:focus-visible{transform:translateY(-6px) rotate(-.6deg);border-color:var(--bear);
   box-shadow:5px 7px 0 var(--bear-light);outline:none}
 .item-image{aspect-ratio:1;display:flex;align-items:center;justify-content:center;background:var(--sand)}
-.item-image img{width:100%;height:100%;object-fit:cover;transition:transform .25s}
+.item-image img{width:100%;height:100%;object-fit:contain;padding:10px;transition:transform .25s}
 .item-card:hover .item-image img{transform:scale(1.06)}
 .item-image-placeholder{display:flex;flex-direction:column;align-items:center;gap:6px;color:var(--muted);font-size:.8rem}
 .item-image-placeholder img{width:96px;height:96px;opacity:.85}
@@ -114,3 +114,8 @@ select{padding:10px 14px;border:3px solid var(--border);border-radius:14px;backg
   .header-note{display:none}
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* tall packages (blister packs) */
+.dialog-frame:has(.dialog-image){aspect-ratio:auto;width:min(280px,75%);padding:10px}
+.dialog-frame .dialog-image{width:auto;max-width:100%;max-height:430px;border-radius:10px}
+.info-text strong{color:var(--bear-dark);font-weight:900}
