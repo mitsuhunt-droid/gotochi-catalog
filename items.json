@@ -269,5 +269,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "kobe-ijinkan-2",
+      "title": "Lazing around at Kobe Ijinkan",
+      "prefecture": "hyogo",
+      "region": "kansai",
+      "item": "structure",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Kobe Ijinkan** (神戸異人館), a historic district in **Hyōgo** prefecture. Located in the picturesque **Kitano-chō** (北野町) area, it is famous for its Western-style foreign residences built during the Meiji and Taishō eras, reflecting the international influences that shaped Kobe’s history.",
+  "The design features **Rilakkuma** dressed in a charming vintage outfit, wearing a dark hat and a red bowtie while standing beside a miniature Western-style house marked with the inscription “**KOBE**”. **Kiiroitori** appears alongside him, wearing a small blue accessory that complements the historical theme.",
+  "The background art depicts a charming streetscape inspired by the **Kobe Ijinkan district**, featuring a pink sky, green trees and the silhouette of a traditional Western-style residence. The miniature house and vintage-inspired details make this piece a delightful tribute to the architectural heritage and nostalgic atmosphere of **Kobe**."
+      ],
+      "image": "images/kobe-ijinkan-2.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
