@@ -201,5 +201,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "seal-1",
+      "title": "Lazing around with seal",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "animal",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **seals**, marine mammals commonly associated with the cold coastal waters of **Hokkaidō**. These graceful animals are a familiar sight in the northern region of Japan, where they inhabit the surrounding seas and are often featured as part of its distinctive marine wildlife.",
+  "The design features **Rilakkuma** lazily lounging on the back of a white **seal**, while **Kiiroitori** playfully rides alongside him. The seal is depicted with a smooth, rounded body and a cheerful expression, creating an adorable winter-inspired scene.",
+  "The background art captures a peaceful **icy seascape**, with soft blue waves and pale horizontal patterns reminiscent of the cold northern waters. The packaging also displays the inscription “Hokkaidō Exclusive” (北海道限定), making this piece a charming tribute to the marine wildlife of Japan’s northernmost island."
+      ],
+      "image": "images/seal.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
