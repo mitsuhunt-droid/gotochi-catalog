@@ -163,7 +163,24 @@
   "The design features **Rilakkuma** dressed in a sophisticated vintage top hat and bowtie, holding a golden walking cane and posing alongside a miniature replica of the iconic **Weathercock House** (風見鶏の館) marked with “**Kōbe**”. **Kiiroitori** joins in the classic aesthetic with his own tiny top hat.",
   "The background art captures the serene scenery of the **red-brick mansion** and its famous rooster weather vane standing against a bright blue sky. It is a delightful tribute to the rich **architectural heritage** and romantic coastal charm of **Kōbe**."
       ],
-      "image": "images/amaou-strawberry.png",
+      "image": "images/kobe-ijinkan.png",
+      "image_source": "",
+      "image_credit": ""
+    }
+     ,
+    {
+      "id": "korila-happiness-1",
+      "title": "Korilakkuma at Happiness Station",
+      "prefecture": "hokkaido",
+      "region": "hokkaido",
+      "item": "item",
+      "type": ["blister pack"],
+      "description": [
+ "This piece is a variation of the **Kofuku Station** (幸福駅) theme from **Hokkaidō**, featuring **Korilakkuma**. Known as the “*Station of Happiness*”, this landmark in the **Tokachi** region is famous for its romantic legacy, where visitors from all over the world come to post wooden plaques and buy symbolic tickets representing a lifetime of joy.",
+  "The design features **Korilakkuma** dressed in a charming navy station master’s hat, leaning over a large pink replica of the iconic **Kofuku** ticket that reads “*Bound for Happiness*” (幸福ゆき). **Kiiroitori** joins the scene wearing his own conductor’s cap, playfully perched atop a vibrant pink heart that proudly displays “*Hokkaidō*.”",
+  "The background art depicts classic **orange train cars** and the peaceful, open landscapes of northern Japan, capturing the nostalgic and hopeful spirit of this beloved memorial park."
+      ],
+      "image": "images/korila-happiness.png",
       "image_source": "",
       "image_credit": ""
     }
