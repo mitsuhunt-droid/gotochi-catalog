@@ -490,5 +490,22 @@
       "image_source": "",
       "image_credit": ""
     }
+     ,
+    {
+      "id": "inaba-white-rabbit-1",
+      "title": "Lazing around with Inaba's white rabbit",
+      "prefecture": "tottori",
+      "region": "chugoku",
+      "item": "animal",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Inaba no Shirousagi** (因幡の白兎), or the White Rabbit of Inaba, a famous Japanese myth associated with **Tottori** prefecture. The legend tells the story of a white rabbit who encounters the god Ōkuninushi after attempting to cross the sea with the help of a group of sharks. The tale is closely connected to the region’s folklore and the traditions of **San’in**.",
+  "The design features **Rilakkuma** sitting beside a small white rabbit resting in a green basket. He wears a green pendant around his neck, while **Kiiroitori** accompanies them, perched on a small carrot-shaped decoration.",
+  "The background art depicts a coastal landscape with blue ocean waters, a bright sky and green hills. A white sea creature can be seen swimming in the water, evoking the seaside setting of the White Rabbit of Inaba legend."
+      ],
+      "image": "images/inaba-white-rabbit.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
