@@ -456,5 +456,22 @@
       "image_source": "",
       "image_credit": ""
     }
+       ,
+    {
+      "id": "koinobori-1",
+      "title": "Lazing around with koinobori",
+      "prefecture": "saitama",
+      "region": "kanto",
+      "item": "item",
+      "type": ["blister pack"],
+      "description": [
+"This piece celebrates **Koinobori** (鯉のぼり), traditional carp-shaped windsocks flown across Japan to celebrate **Children’s Day** on May 5. Inspired by the carp’s symbolism of strength, perseverance and success, these colourful decorations express wishes for children to grow up healthy and strong. The tradition is especially associated with the festive atmosphere of spring throughout **Saitama** prefecture.",
+  "The design features **Rilakkuma** lounging comfortably on a large black **Koinobori**, decorated with white scales and a red eye. **Kiiroitori** accompanies him beside a smaller red-and-white carp streamer, adding to the playful celebration.",
+  "The background art depicts several colourful **Koinobori** flying against a bright blue sky, with green hills beneath them. Their different colours and sizes recreate the cheerful sight of carp streamers waving in the spring breeze, capturing the festive spirit of **Children’s Day** in Japan."
+      ],
+      "image": "images/koinobori.png",
+      "image_source": "",
+      "image_credit": ""
+    }
   ]
 }
